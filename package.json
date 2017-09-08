@@ -25,5 +25,7 @@
     "eslint-plugin-standard": "^3.0.1"
   },
   "dependencies": {
+    "json-stringify-pretty-compact": "^1.0.4",
+    "nightmare": "^2.10.0"
   }
 }

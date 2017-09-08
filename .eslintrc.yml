@@ -1,5 +1,8 @@
 extends: standard
 
+parserOptions:
+  ecmaVersion: 6
+
 globals:
   phantom: true
 
