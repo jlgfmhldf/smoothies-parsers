@@ -25,6 +25,8 @@
     "eslint-plugin-standard": "^3.0.1"
   },
   "dependencies": {
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "cllc": "^0.0.10",
     "json-stringify-pretty-compact": "^1.0.4",
     "nightmare": "^2.10.0",
     "vo": "^4.0.2"

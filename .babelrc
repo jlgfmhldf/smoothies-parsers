@@ -4,6 +4,11 @@
         "stage-0"
     ],
     "plugins": [
-        "transform-remove-strict-mode"
+        "transform-remove-strict-mode",
+        ["transform-runtime", {
+            "helpers": false,
+            "polyfill": false,
+            "regenerator": true
+        }]
     ]
 }
