@@ -33,8 +33,6 @@ const getLinks = (selectors) => {
   const arrayOfElems = Array.from(elems)
   const links = arrayOfElems.map(el => el.href)
 
-  console.log(links)
-
   return links
 }
 
