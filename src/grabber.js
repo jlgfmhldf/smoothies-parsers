@@ -60,7 +60,8 @@ export default function grabber ({
     }
 
     default: {
-      const content = document.querySelector(selector).innerText
+      const elem = document.querySelector(selector)
+      const content = elem && elem.innerText
 
       return regexp ? matchContent(content, regexp) : content
     }

@@ -3,11 +3,15 @@ import capitalize from 'js-capitalize'
 const capitalizeIngredient = item => capitalize(item)
 
 const toNumber = word => {
-  if (word.indexOf(',')) {
-    return +word.replace(',', '.')
+  if (word) {
+    if (word.indexOf(',')) {
+      return +word.replace(',', '.')
+    }
+
+    return +word
   }
 
-  return +word
+  return word
 }
 
 const nutritionValueToNumber = obj => key => {

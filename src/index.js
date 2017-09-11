@@ -11,6 +11,7 @@ const log = clic()
 
 const nighmareOptions = {
   // show: true,
+  executionTimeout: 1000000,
   openDevTools: {
     mode: 'detach'
   },

@@ -1,158 +1,4157 @@
 [
   {
-    "image": "https://s1.eda.ru/StaticContent/Photos/110825150222/120213175436/p_O.jpg",
+    "image": "https://s1.eda.ru/StaticContent/Photos/151012151127/160816182714/p_O.jpg",
     "ingredients": [
-      "Сливочное масло",
-      "Пшеничная мука",
-      "Мясной бульон",
-      "Уксус",
-      "Чеснок",
-      "Соль"
+      "Яблоки «голден»",
+      "Шпинат",
+      "Стебель сельдерея",
+      "Огурцы",
+      "Лайм",
+      "Ананас",
+      "Авокадо",
+      "Лед"
     ],
-    "link": "https://eda.ru/recepty/sousy-marinady/chesnochnij-sous-16245",
+    "link": "https://eda.ru/recepty/napitki/zelenyy-smuzi-so-shpinatom-i-ananasom-80081",
     "nutrition": {
-      "calories": 36,
-      "carbohydrate": 4.1,
-      "fat": 1.8,
-      "protein": 0.9
+      "calories": 318,
+      "carbohydrate": 43.6,
+      "fat": 13.8,
+      "protein": 3.9
     },
-    "title": "Чесночный соус"
+    "title": "Зеленый смузи со шпинатом и ананасом"
   },
   {
-    "image": "https://s2.eda.ru/StaticContent/Photos/140220200817/140225120355/p_O.jpg",
+    "image": "https://s1.eda.ru/StaticContent/Photos/151021114948/160816183311/p_O.jpg",
     "ingredients": [
-      "Рис",
+      "Ананас",
+      "Яблоки «голден»",
+      "Шпинат",
+      "Свекла",
+      "Малина",
+      "Голубика",
+      "Красная смородина",
+      "Бананы",
+      "Лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/krasnyy-smuzi-s-yagodami-i-svekloy-80082",
+    "nutrition": {
+      "calories": 185,
+      "carbohydrate": 38.5,
+      "fat": 1,
+      "protein": 3.7
+    },
+    "title": "Красный смузи с ягодами и свеклой"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/160608133558/160817112516/p_O.jpg",
+    "ingredients": [
       "Морковь",
-      "Лук-порей",
-      "Чеснок",
-      "Соевый соус",
-      "Яйцо куриное",
-      "Зеленый лук перья",
-      "Кунжутные семечки",
-      "Филе куриной грудки"
+      "Яблоки «голден»",
+      "Огурцы",
+      "Имбирь",
+      "Базилик",
+      "Бананы",
+      "Груши",
+      "Лед"
     ],
-    "link": "https://eda.ru/recepty/osnovnye-blyuda/chesnochnij-ris-s-soevim-sousom-42543",
+    "link": "https://eda.ru/recepty/napitki/zheltyy-smuzi-s-yablokami-bazilikom-i-imbirem-80084",
     "nutrition": {
-      "calories": 678,
-      "carbohydrate": 116.9,
-      "fat": 7.1,
-      "protein": 39.5
+      "calories": 220,
+      "carbohydrate": 49.5,
+      "fat": 1.4,
+      "protein": 3.3
     },
-    "title": "Чесночный рис с соевым соусом"
+    "title": "Желтый смузи с яблоками, базиликом и имбирем"
   },
   {
-    "image": "https://s2.eda.ru/StaticContent/Photos/130611145209/150607031115/p_O.jpg",
+    "image": "https://s1.eda.ru/StaticContent/Photos/120213181523/120213181730/p_O.jpg",
+    "ingredients": ["Груши", "Бананы", "Стебель сельдерея"],
+    "link": "https://eda.ru/recepty/napitki/bananovo-grushevij-smuzi-19003",
+    "nutrition": {
+      "calories": 363,
+      "carbohydrate": 89.3,
+      "fat": 1,
+      "protein": 6.2
+    },
+    "title": "Бананово-грушевый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/110805134417/140227174350/p_O.jpg",
     "ingredients": [
-      "Сметана",
-      "Чеснок",
-      "Укроп",
-      "Соль",
-      "Перец черный молотый"
+      "Бананы",
+      "Киви",
+      "Малина замороженная",
+      "Фундук",
+      "Цветочный мед"
     ],
-    "link": "https://eda.ru/recepty/sousy-marinady/smetanno-chesnochnij-sous-50956",
+    "link": "https://eda.ru/recepty/napitki/utrennij-fruktovij-smuzi-35594",
+    "nutrition": {
+      "calories": 656,
+      "carbohydrate": 77.6,
+      "fat": 34.8,
+      "protein": 12.9
+    },
+    "title": "Утренний фруктовый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/130523140247/130610123337/p_O.jpg",
+    "ingredients": ["Бананы", "Прозрачный мед", "Обезжиренный кефир"],
+    "link": "https://eda.ru/recepty/napitki/bananovij-smuzi-s-kefirom-28451",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Банановый смузи с кефиром"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/130212102403/130310085853/p_O.jpg",
+    "ingredients": ["Молоко", "Молочный шоколад", "Бананы", "Корица"],
+    "link": "https://eda.ru/recepty/napitki/shokoladnij-smuzi-s-bananom-36169",
+    "nutrition": {
+      "calories": 355,
+      "carbohydrate": 45,
+      "fat": 16.2,
+      "protein": 9.6
+    },
+    "title": "Шоколадный смузи с бананом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120213185439/120213185927/p_O.jpg",
+    "ingredients": [
+      "Курага",
+      "Темный изюм",
+      "Мед",
+      "Овсяные хлопья",
+      "Миндальное молоко"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-suhofruktov-21856",
+    "nutrition": {
+      "calories": 556,
+      "carbohydrate": 78.6,
+      "fat": 23.7,
+      "protein": 12.5
+    },
+    "title": "Смузи из сухофруктов"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131111936/120214130640/p_O.jpg",
+    "ingredients": ["Апельсиновый сок", "Ананасовый сок", "Ананас", "Бананы"],
+    "link": "https://eda.ru/recepty/napitki/ananasovij-smuzi-24229",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Ананасовый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131111615/120214131314/p_O.jpg",
+    "ingredients": ["Клубника", "Черешня", "Молоко", "Ванилин"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-klubniki-chereshni-24580",
+    "nutrition": {
+      "calories": 68,
+      "carbohydrate": 10,
+      "fat": 2.1,
+      "protein": 2.4
+    },
+    "title": "Смузи из клубники и черешни"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120213181135/120214131954/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Молоко 1%-ое",
+      "Кофейный йогурт низкой жирности",
+      "Молотая корица",
+      "Молотый мускатный орех",
+      "Мята"
+    ],
+    "link": "https://eda.ru/recepty/napitki/kofejno-bananovij-smuzi-ot-starbucks-24993",
+    "nutrition": {
+      "calories": 308,
+      "carbohydrate": 61.2,
+      "fat": 3.7,
+      "protein": 10.3
+    },
+    "title": "Кофейно-банановый смузи от Starbucks"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140201143522/140206140857/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Овсяные хлопья быстрого приготовления",
+      "Натуральный йогурт",
+      "Миндаль",
+      "Мед"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/bananovo-ovsjanij-smuzi-42138",
+    "nutrition": {
+      "calories": 545,
+      "carbohydrate": 61.1,
+      "fat": 27.3,
+      "protein": 16.7
+    },
+    "title": "Бананово-овсяный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131085403/130815154042/p_O.jpg",
+    "ingredients": [
+      "Клубника",
+      "Бананы",
+      "Киви",
+      "Ананасовый сок",
+      "Сахар",
+      "Лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-kivi-klubniki-i-banana-39160",
+    "nutrition": {
+      "calories": 420,
+      "carbohydrate": 102.8,
+      "fat": 0.6,
+      "protein": 3.7
+    },
+    "title": "Смузи из киви, клубники и банана"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120213184952/120514141249/p_O.jpg",
+    "ingredients": [
+      "Морковь",
+      "Зеленые яблоки",
+      "Имбирь",
+      "Бананы",
+      "Свежая мята",
+      "Апельсины"
+    ],
+    "link": "https://eda.ru/recepty/napitki/oranzhevyy-smuzi-s-bananami-31563",
+    "nutrition": {
+      "calories": 408,
+      "carbohydrate": 91.6,
+      "fat": 1.9,
+      "protein": 8.5
+    },
+    "title": "Оранжевый смузи с бананами"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/130907154434/140420160401/p_O.jpg",
+    "ingredients": ["Яблоко", "Груши", "Бананы", "Апельсины"],
+    "link": "https://eda.ru/recepty/napitki/vitaminnij-fruktovij-smuzi-34322",
+    "nutrition": {
+      "calories": 191,
+      "carbohydrate": 44.5,
+      "fat": 0.9,
+      "protein": 3.3
+    },
+    "title": "Витаминный фруктовый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140416134740/140423102849/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Молоко",
+      "Мед",
+      "Овсяные хлопья",
+      "Натуральный йогурт"
+    ],
+    "link": "https://eda.ru/recepty/napitki/bananovij-smuzi-s-ovsjankoj-43597",
+    "nutrition": {
+      "calories": 410,
+      "carbohydrate": 72.1,
+      "fat": 8.8,
+      "protein": 14.2
+    },
+    "title": "Банановый смузи с овсянкой"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131082312/120213184042/p_O.jpg",
+    "ingredients": [
+      "Апельсины",
+      "Красные грейпфруты",
+      "Бананы",
+      "Лед",
+      "Листья мяты"
+    ],
+    "link": "https://eda.ru/recepty/napitki/tropicheskij-smuzi-20639",
+    "nutrition": {
+      "calories": 205,
+      "carbohydrate": 47.8,
+      "fat": 0.8,
+      "protein": 4.4
+    },
+    "title": "Тропический смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142508/p_O.jpg",
+    "ingredients": [
+      "Молоко 1%-ое",
+      "Мягкий тофу",
+      "Сахар",
+      "Бананы",
+      "Растворимый эспрессо",
+      "Лед",
+      "Молотая корица"
+    ],
+    "link": "https://eda.ru/recepty/napitki/kofejno-bananovij-smuzi-s-koricej-28562",
+    "nutrition": {
+      "calories": 79,
+      "carbohydrate": 14,
+      "fat": 1.2,
+      "protein": 3.8
+    },
+    "title": "Кофейно-банановый смузи с корицей"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214154946/120214155616/p_O.jpg",
+    "ingredients": [
+      "Клубника",
+      "Бананы",
+      "Свежая мята",
+      "Яблоко",
+      "Лайм",
+      "Вода"
+    ],
+    "link": "https://eda.ru/recepty/napitki/mjatno-klubnichnij-smuzi-30154",
+    "nutrition": {
+      "calories": 210,
+      "carbohydrate": 47.7,
+      "fat": 0.8,
+      "protein": 4
+    },
+    "title": "Мятно-клубничный смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142515/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Малина",
+      "Черника",
+      "Мед",
+      "Молотая корица",
+      "Яблочный сок",
+      "Колотый лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-so-svezhimi-jagodami-bananom-koricej-28565",
+    "nutrition": {
+      "calories": 79,
+      "carbohydrate": 18.4,
+      "fat": 0.3,
+      "protein": 1.2
+    },
+    "title": "Смузи со свежими ягодами, бананом и корицей"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131083308/150506184059/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Соевое молоко",
+      "Ванильный стручок",
+      "Кунжутные семечки"
+    ],
+    "link": "https://eda.ru/recepty/napitki/bananovyy-smuzi-26997",
+    "nutrition": {
+      "calories": 237,
+      "carbohydrate": 46.1,
+      "fat": 4.3,
+      "protein": 5.3
+    },
+    "title": "Банановый смузи."
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/131113183908/140117013008/p_O.jpg",
+    "ingredients": ["Яйцо куриное", "Бананы", "Молоко", "Какао-порошок"],
+    "link": "https://eda.ru/recepty/napitki/shokoladno-bananovij-smuzi-41786",
+    "nutrition": {
+      "calories": 597,
+      "carbohydrate": 98.8,
+      "fat": 15,
+      "protein": 21.2
+    },
+    "title": "Шоколадно-банановый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214125956/120214130554/p_O.jpg",
+    "ingredients": ["Клюквенный морс", "Клюква", "Ежевика", "Малиновый йогурт"],
+    "link": "https://eda.ru/recepty/napitki/yagodnyy-smuzi-iz-klyukvy-i-ezheviki-24061",
+    "nutrition": {
+      "calories": 205,
+      "carbohydrate": 36.8,
+      "fat": 3.8,
+      "protein": 7.3
+    },
+    "title": "Ягодный смузи из клюквы и ежевики"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120213174921/120214130641/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Апельсиновый сок",
+      "Натуральный йогурт",
+      "Черника"
+    ],
+    "link": "https://eda.ru/recepty/napitki/jogurtovij-bananovij-smuzi-s-chernikoj-24235",
+    "nutrition": {
+      "calories": 299,
+      "carbohydrate": 58.4,
+      "fat": 3.8,
+      "protein": 9.4
+    },
+    "title": "Йогуртовый банановый смузи с черникой"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214141717/120214142518/p_O.jpg",
+    "ingredients": ["Бананы", "Свежая клюква", "Молоко 1%-ое", "Лед"],
+    "link": "https://eda.ru/recepty/napitki/molochno-kljukvennij-smuzi-28566",
+    "nutrition": {
+      "calories": 79,
+      "carbohydrate": 16.9,
+      "fat": 0.6,
+      "protein": 2.7
+    },
+    "title": "Молочно-клюквенный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/121004175948/150630065330/p_O.jpg",
+    "ingredients": ["Бананы", "Овсяные хлопья", "Молоко"],
+    "link": "https://eda.ru/recepty/napitki/utrennij-bananovij-smuzi-s-ovsjanimi-hlopjami-41589",
+    "nutrition": {
+      "calories": 190,
+      "carbohydrate": 33.5,
+      "fat": 4.4,
+      "protein": 5.9
+    },
+    "title": "Утренний банановый смузи с овсяными хлопьями"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214155832/120214160631/p_O.jpg",
+    "ingredients": [
+      "Киви",
+      "Бананы",
+      "Яблоко",
+      "Лимонный сок",
+      "Свежая мята",
+      "Молотая корица"
+    ],
+    "link": "https://eda.ru/recepty/napitki/fruktovij-smuzi-s-mjatoj-30594",
+    "nutrition": {
+      "calories": 187,
+      "carbohydrate": 41.9,
+      "fat": 1.1,
+      "protein": 3.8
+    },
+    "title": "Фруктовый смузи с мятой"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214131925/120214132126/p_O.jpg",
+    "ingredients": [
+      "Свежевыжатый грейпфрутовый сок",
+      "Консервированный ананас",
+      "Ванильный сахар",
+      "Натуральный йогурт"
+    ],
+    "link": "https://eda.ru/recepty/napitki/grejpfrutovij-smuzi-25043",
+    "nutrition": {
+      "calories": 211,
+      "carbohydrate": 38.7,
+      "fat": 3.5,
+      "protein": 5.7
+    },
+    "title": "Грейпфрутовый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131085856/120214135431/p_O.jpg",
+    "ingredients": [
+      "Замороженная клубника",
+      "Концентрированный апельсиновый сок",
+      "Бананы",
+      "Ванильное молоко"
+    ],
+    "link": "https://eda.ru/recepty/napitki/klubnichno-bananovij-smuzi-26837",
     "nutrition": {
       "calories": 118,
-      "carbohydrate": 5.7,
-      "fat": 9.5,
-      "protein": 2.6
+      "carbohydrate": 24.1,
+      "fat": 0.9,
+      "protein": 3
     },
-    "title": "Сметанно-чесночный соус"
+    "title": "Клубнично-банановый смузи"
   },
   {
-    "image": "https://s1.eda.ru/StaticContent/Photos/120213175629/1202131757181/p_O.jpg",
-    "ingredients": ["Чеснок", "Сметана", "Куриный бульон"],
-    "link": "https://eda.ru/recepty/sousy-marinady/sous-chesnochnij-17112",
-    "nutrition": {
-      "calories": 27,
-      "carbohydrate": 4.9,
-      "fat": 0.2,
-      "protein": 1.5
-    },
-    "title": "Соус чесночный"
-  },
-  {
-    "image": "https://s2.eda.ru/StaticContent/Photos/110811170903/120214141719/p_O.jpg",
+    "image": "https://s2.eda.ru/StaticContent/Photos/120515204458/120528182830/p_O.jpg",
     "ingredients": [
-      "Соевый соус",
-      "Рисовый уксус",
-      "Лимонный сок",
-      "Чеснок",
-      "Рубленная кинза (кориандр)",
-      "Тертый имбирь",
-      "Кунжутное масло"
+      "Авокадо",
+      "Сгущенное молоко",
+      "Лед",
+      "Кокосовое молоко",
+      "Ванильный экстракт"
     ],
-    "link": "https://eda.ru/recepty/sousy-marinady/imbirno-chesnochnij-sous-28128",
+    "link": "https://eda.ru/recepty/napitki/gustoj-utrennij-smuzi-s-avokado-kokosovim-molokom-31744",
     "nutrition": {
-      "calories": 81,
-      "carbohydrate": 5.8,
-      "fat": 5.1,
-      "protein": 3.1
+      "calories": 463,
+      "carbohydrate": 31.9,
+      "fat": 35.6,
+      "protein": 6.1
     },
-    "title": "Имбирно-чесночный соус"
+    "title": "Густой утренний смузи с авокадо и кокосовым молоком"
   },
   {
-    "image": "https://s2.eda.ru/StaticContent/Photos/120214140918/120214154259/p_O.jpg",
-    "ingredients": ["Уксус", "Мелко рубленный чеснок", "Соевый соус"],
-    "link": "https://eda.ru/recepty/sousy-marinady/chesnochnij-sous-s-uksusom-29399",
+    "image": "https://s1.eda.ru/StaticContent/Photos/120515204458/140213205131/p_O.jpg",
+    "ingredients": [
+      "Замороженные фрукты",
+      "Бананы",
+      "Замороженные ягоды",
+      "Натуральный йогурт",
+      "Овсяные хлопья",
+      "Орехи",
+      "Обезжиренное молоко"
+    ],
+    "link": "https://eda.ru/recepty/vypechka-deserty/smuzi-iz-zamorozhennih-fruktov-s-ovsjanimi-hlopjami-36573",
     "nutrition": {
-      "calories": 31,
-      "carbohydrate": 4.8,
-      "fat": 0.1,
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Смузи из замороженных фруктов с овсяными хлопьями"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131082509/120214131930/p_O.jpg",
+    "ingredients": ["Груши", "Бананы", "Ананасовый сок", "Клетчатка", "Мюсли"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-fruktovij-so-zlakami-24877",
+    "nutrition": {
+      "calories": 228,
+      "carbohydrate": 50.4,
+      "fat": 1.9,
+      "protein": 3.8
+    },
+    "title": "Смузи фруктовый со злаками"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140220200817/140223192927/p_O.jpg",
+    "ingredients": [
+      "Апельсины",
+      "Яблоко",
+      "Морковь",
+      "Свежевыжатый апельсиновый сок"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-citrusovij-s-morkovju-32791",
+    "nutrition": {
+      "calories": 270,
+      "carbohydrate": 58.9,
+      "fat": 1.7,
+      "protein": 5.7
+    },
+    "title": "Смузи цитрусовый с морковью"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214131251/131008001957/p_O.jpg",
+    "ingredients": [
+      "Апельсины",
+      "Хурма",
+      "Молотая корица",
+      "Свежий имбирь",
+      "Вода"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-hurmi-40042",
+    "nutrition": {
+      "calories": 317,
+      "carbohydrate": 93.8,
+      "fat": 0.5,
+      "protein": 4.1
+    },
+    "title": "Смузи из хурмы"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/150626190443/150703074255/p_O.jpg",
+    "ingredients": ["Вода", "Овсяная крупа", "Молоко", "Бананы", "Мед"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-bananom-i-ovsjankoj-41050",
+    "nutrition": {
+      "calories": 388,
+      "carbohydrate": 72,
+      "fat": 8.6,
+      "protein": 11.7
+    },
+    "title": "Смузи с бананом и овсянкой"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131111357/120214130639/p_O.jpg",
+    "ingredients": [
+      "Яблочный сок",
+      "Ванильный экстракт",
+      "Ванильный йогурт",
+      "Замороженная вишня"
+    ],
+    "link": "https://eda.ru/recepty/napitki/vishnevo-vanilnij-smuzi-s-jogurtom-24223",
+    "nutrition": {
+      "calories": 166,
+      "carbohydrate": 30.9,
+      "fat": 2.8,
+      "protein": 4.1
+    },
+    "title": "Вишнево-ванильный смузи с йогуртом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120505175012/130729134321/p_O.jpg",
+    "ingredients": [
+      "Замороженная клюква",
+      "Замороженная черника",
+      "Замороженная ежевика",
+      "Замороженная клубника",
+      "Бананы",
+      "Соевое молоко",
+      "Зеленый чай",
+      "Мед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-svezhih-jagod-s-zelenim-chaem-24647",
+    "nutrition": {
+      "calories": 181,
+      "carbohydrate": 40.6,
+      "fat": 1,
+      "protein": 4.2
+    },
+    "title": "Смузи из свежих ягод с зеленым чаем"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142506/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Соевое молоко",
+      "Мягкий тофу",
+      "Какао-порошок",
+      "Мед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/bananovo-shokoladnij-smuzi-28561",
+    "nutrition": {
+      "calories": 96,
+      "carbohydrate": 16.6,
+      "fat": 1.9,
+      "protein": 3.8
+    },
+    "title": "Бананово-шоколадный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/150601195902/150610140128/p_O.jpg",
+    "ingredients": [
+      "Голубика",
+      "Замороженная черника",
+      "Сушеные финики",
+      "Апельсины",
+      "Грецкие орехи"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-zamorozhennoj-cherniki-golubiki-apelsinov-finikov-27006",
+    "nutrition": {
+      "calories": 235,
+      "carbohydrate": 36.5,
+      "fat": 8.8,
+      "protein": 4.7
+    },
+    "title": "Смузи из замороженной черники и голубики, апельсинов и фиников"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120213183151/150629133715/p_O.jpg",
+    "ingredients": [
+      "Шпинат",
+      "Груши",
+      "Яблоко",
+      "Стебель сельдерея",
+      "Оливковое масло extra virgin",
+      "Лед"
+    ],
+    "link": "https://eda.ru/recepty/zakuski/zelenij-smuzi-so-shpinatom-39284",
+    "nutrition": {
+      "calories": 365,
+      "carbohydrate": 44.7,
+      "fat": 19.6,
+      "protein": 4.2
+    },
+    "title": "Зеленый смузи со шпинатом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120213180404/120213180436/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Соевое молоко",
+      "Арахисовое масло",
+      "Йогурт",
+      "Мед",
+      "Мюсли"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smusi-s-bananom-soevim-molokom-17958",
+    "nutrition": {
+      "calories": 361,
+      "carbohydrate": 44.9,
+      "fat": 15.2,
+      "protein": 10.9
+    },
+    "title": "Смуси с бананом и соевым молоком"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131082151/120213184956/p_O.jpg",
+    "ingredients": ["Замороженные овощи", "Сыр брынза", "Молотый кориандр"],
+    "link": "https://eda.ru/recepty/napitki/ovoschnoj-smuzi-s-koriandrom-21192",
+    "nutrition": {
+      "calories": 207,
+      "carbohydrate": 25,
+      "fat": 6.3,
+      "protein": 12.2
+    },
+    "title": "Овощной смузи с кориандром"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142409/p_O.jpg",
+    "ingredients": [
+      "Лед",
+      "Консервированные абрикосы",
+      "Сахар",
+      "Натуральный йогурт"
+    ],
+    "link": "https://eda.ru/recepty/napitki/abrikosovij-smuzi-28523",
+    "nutrition": {
+      "calories": 102,
+      "carbohydrate": 19.4,
+      "fat": 1.7,
+      "protein": 3
+    },
+    "title": "Абрикосовый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142414/p_O.jpg",
+    "ingredients": ["Клубника", "Миндальное молоко", "Мягкий тофу", "Сахар"],
+    "link": "https://eda.ru/recepty/napitki/klubnichno-mindalnij-smuzi-28525",
+    "nutrition": {
+      "calories": 137,
+      "carbohydrate": 13.8,
+      "fat": 7,
+      "protein": 4.5
+    },
+    "title": "Клубнично-миндальный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214141717/120214142503/p_O.jpg",
+    "ingredients": [
+      "Апельсиновый сок",
+      "Бананы",
+      "Замороженные ягоды",
+      "Лед",
+      "Мягкий тофу",
+      "Сахар"
+    ],
+    "link": "https://eda.ru/recepty/napitki/jagodno-bananovij-smuzi-28560",
+    "nutrition": {
+      "calories": 117,
+      "carbohydrate": 25.2,
+      "fat": 1,
+      "protein": 2.8
+    },
+    "title": "Ягодно-банановый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214125404/120214125632/p_O.jpg",
+    "ingredients": ["Апельсины", "Манго", "Бананы", "Яблочный сок"],
+    "link": "https://eda.ru/recepty/napitki/apelsinovo-mangovij-smuzi-23649",
+    "nutrition": {
+      "calories": 162,
+      "carbohydrate": 35,
+      "fat": 0.8,
+      "protein": 2.3
+    },
+    "title": "Апельсиново-манговый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142511/p_O.jpg",
+    "ingredients": [
+      "Молоко 1%-ое",
+      "Бананы",
+      "Сухое молоко",
+      "Коричневый сахар",
+      "Ванильный экстракт",
+      "Лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/bananovo-vanilnij-smuzi-28564",
+    "nutrition": {
+      "calories": 124,
+      "carbohydrate": 23.5,
+      "fat": 0.6,
+      "protein": 5.5
+    },
+    "title": "Бананово-ванильный смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214160714/120214161011/p_O.jpg",
+    "ingredients": ["Манго", "Бананы", "Натуральный йогурт"],
+    "link": "https://eda.ru/recepty/napitki/bananovo-mangovij-smuzi-30823",
+    "nutrition": {
+      "calories": 289,
+      "carbohydrate": 44.3,
+      "fat": 5.4,
+      "protein": 9.8
+    },
+    "title": "Бананово-манговый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/130725133817/130802095935/p_O.jpg",
+    "ingredients": [
+      "Молоко",
+      "Пломбир",
+      "Замороженная клубника",
+      "Ванилин",
+      "Лимонный сок",
+      "Сахар"
+    ],
+    "link": "https://eda.ru/recepty/napitki/klubnichnij-smuzi-s-vanilju-38875",
+    "nutrition": {
+      "calories": 572,
+      "carbohydrate": 72.1,
+      "fat": 26.4,
+      "protein": 10.5
+    },
+    "title": "Клубничный смузи с ванилью"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214141717/140616184817/p_O.jpg",
+    "ingredients": ["Бананы", "Виноград", "Киви", "Зеленый чай", "Яблоко"],
+    "link": "https://eda.ru/recepty/napitki/jablochnij-smuzi-44926",
+    "nutrition": {
+      "calories": 91,
+      "carbohydrate": 21.3,
+      "fat": 0.4,
+      "protein": 1.3
+    },
+    "title": "Яблочный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214133254/120214133638/p_O.jpg",
+    "ingredients": [
+      "Тыквенное пюре",
+      "Ванильный йогурт",
+      "Колотый лед",
+      "Апельсиновый сок",
+      "Коричневый сахар",
+      "Молотая корица",
+      "Молотый мускатный орех",
+      "Молотая гвоздика",
+      "Бананы"
+    ],
+    "link": "https://eda.ru/recepty/napitki/tikvenno-bananovij-smuzi-25940",
+    "nutrition": {
+      "calories": 295,
+      "carbohydrate": 46.9,
+      "fat": 9.2,
+      "protein": 7.8
+    },
+    "title": "Тыквенно-банановый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142524/p_O.jpg",
+    "ingredients": [
+      "Апельсиновый сок",
+      "Натуральный обезжиренный йогурт",
+      "Сухое молоко",
+      "Свежие ягоды",
+      "Мед",
+      "Ванильный экстракт"
+    ],
+    "link": "https://eda.ru/recepty/napitki/citrusovo-jagodnij-smuzi-28568",
+    "nutrition": {
+      "calories": 85,
+      "carbohydrate": 13.6,
+      "fat": 1,
+      "protein": 4.7
+    },
+    "title": "Цитрусово-ягодный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131083714/140813221447/p_O.jpg",
+    "ingredients": ["Клубника", "Бананы", "Кефир", "Апельсиновый сок"],
+    "link": "https://eda.ru/recepty/zavtraki/smuzi-s-bananom-i-klubnikoj-42394",
+    "nutrition": {
+      "calories": 359,
+      "carbohydrate": 69,
+      "fat": 4.8,
+      "protein": 11.5
+    },
+    "title": "Смузи с бананом и клубникой"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140512112357/140517113214/p_O.jpg",
+    "ingredients": [
+      "Лайм",
+      "Замороженная черника",
+      "Апельсины",
+      "Рисовое ванильное молоко",
+      "Бананы",
+      "Овсяные хлопья"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-chernikoj-i-bananom-44032",
+    "nutrition": {
+      "calories": 202,
+      "carbohydrate": 43.5,
+      "fat": 1.8,
+      "protein": 4.9
+    },
+    "title": "Смузи с черникой и бананом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131083110/150109132403/p_O.jpg",
+    "ingredients": [
+      "Малина",
+      "Натуральный йогурт",
+      "Вишня",
+      "Клубника",
+      "Бананы"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-jagodami-i-bananom-48143",
+    "nutrition": {
+      "calories": 207,
+      "carbohydrate": 39.8,
+      "fat": 2.7,
+      "protein": 6.1
+    },
+    "title": "Смузи с ягодами и бананом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131083649/120214125415/p_O.jpg",
+    "ingredients": [
+      "Молоко",
+      "Ванильный йогурт",
+      "Концентрированный апельсино-ананасовый сок",
+      "Замороженная клубника",
+      "Бананы"
+    ],
+    "link": "https://eda.ru/recepty/napitki/jogurtovo-fruktovij-smuzi-23529",
+    "nutrition": {
+      "calories": 171,
+      "carbohydrate": 25.4,
+      "fat": 4.7,
+      "protein": 6.3
+    },
+    "title": "Йогуртово-фруктовый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120130134327/120214131254/p_O.jpg",
+    "ingredients": [
+      "Черника",
+      "Малина",
+      "Бананы",
+      "Молоко",
+      "Натуральный обезжиренный йогурт",
+      "Лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/jagodnij-smuzi-s-jogurtom-24479",
+    "nutrition": {
+      "calories": 158,
+      "carbohydrate": 23.3,
+      "fat": 4.3,
+      "protein": 6.4
+    },
+    "title": "Ягодный смузи с йогуртом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214154946/120214155534/p_O.jpg",
+    "ingredients": [
+      "Листья эстрагона",
+      "Сельдерей",
+      "Листья мяты",
+      "Персики",
+      "Яблоко",
+      "Бананы",
+      "Лимон",
+      "Вода"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-so-vkusom-tarhuna-30136",
+    "nutrition": {
+      "calories": 175,
+      "carbohydrate": 39.7,
+      "fat": 0.7,
+      "protein": 3.8
+    },
+    "title": "Смузи со вкусом тархуна"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/130725133817/130805070229/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Замороженная клубника",
+      "Молоко",
+      "Ванилин",
+      "Пломбир"
+    ],
+    "link": "https://eda.ru/recepty/napitki/bananovo-klubnichnij-smuzi-38930",
+    "nutrition": {
+      "calories": 596,
+      "carbohydrate": 82.2,
+      "fat": 26.3,
+      "protein": 11.3
+    },
+    "title": "Бананово-клубничный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/131207233339/131213213903/p_O.jpg",
+    "ingredients": ["Миндаль", "Овсяные хлопья", "Мед", "Бананы"],
+    "link": "https://eda.ru/recepty/zavtraki/ovsjanka-smuzi-41310",
+    "nutrition": {
+      "calories": 479,
+      "carbohydrate": 47.9,
+      "fat": 26.9,
+      "protein": 14.5
+    },
+    "title": "Овсянка-смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131090259/140418162347/p_O.jpg",
+    "ingredients": ["Бананы", "Вишня", "Вишневый сок", "Сахар"],
+    "link": "https://eda.ru/recepty/napitki/vishnevo-bananovij-smuzi-43481",
+    "nutrition": {
+      "calories": 690,
+      "carbohydrate": 160.8,
+      "fat": 2.4,
+      "protein": 10.6
+    },
+    "title": "Вишнево-банановый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140702130221/140713094052/p_O.jpg",
+    "ingredients": [
+      "Овсяные хлопья",
+      "Яблоко",
+      "Ванильный экстракт",
+      "Миндальное молоко",
+      "Сахар"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/jablochno-ovsjanij-smuzi-na-zavtrak-45378",
+    "nutrition": {
+      "calories": 241,
+      "carbohydrate": 26,
+      "fat": 12.6,
+      "protein": 5.8
+    },
+    "title": "Яблочно-овсяный смузи на завтрак"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140914020053/140918230558/p_O.jpg",
+    "ingredients": [
+      "Авокадо",
+      "Апельсины",
+      "Бананы",
+      "Лимон",
+      "Петрушка",
+      "Вода"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-avokado-46484",
+    "nutrition": {
+      "calories": 402,
+      "carbohydrate": 42,
+      "fat": 25.4,
+      "protein": 6.1
+    },
+    "title": "Смузи из авокадо"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/110825150222/120213180747/p_O.jpg",
+    "ingredients": ["Зеленый виноград", "Клубника", "Яблоко", "Йогурт", "Лед"],
+    "link": "https://eda.ru/recepty/napitki/vinogradnij-smuci-18153",
+    "nutrition": {
+      "calories": 332,
+      "carbohydrate": 64.1,
+      "fat": 5.6,
+      "protein": 7.8
+    },
+    "title": "Виноградный смуcи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131112107/120214130641/p_O.jpg",
+    "ingredients": [
+      "Яблочный сок",
+      "Замороженная клубника",
+      "Мягкий тофу",
+      "Бананы"
+    ],
+    "link": "https://eda.ru/recepty/napitki/rozovij-bananovij-smuzi-24230",
+    "nutrition": {
+      "calories": 204,
+      "carbohydrate": 41.7,
+      "fat": 1.9,
+      "protein": 5.5
+    },
+    "title": "Розовый банановый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214123706/120214131350/p_O.jpg",
+    "ingredients": [
+      "Ванильное мороженое",
+      "Клубника",
+      "Черника",
+      "Малина",
+      "Сахар",
+      "Клюквенный сок",
+      "Лимонный сок",
+      "Свежая мята",
+      "Колотый лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-svezhih-jagod-s-vanilnim-morozhenim-24615",
+    "nutrition": {
+      "calories": 196,
+      "carbohydrate": 29.2,
+      "fat": 7.1,
+      "protein": 3
+    },
+    "title": "Смузи из свежих ягод с ванильным мороженым"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142454/p_O.jpg",
+    "ingredients": ["Авокадо", "Апельсиновый сок", "Малиновый сок", "Малина"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-avokado-svezhej-malini-28556",
+    "nutrition": {
+      "calories": 191,
+      "carbohydrate": 18.8,
+      "fat": 12.7,
+      "protein": 2.1
+    },
+    "title": "Смузи из авокадо и свежей малины"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/131014225425/131026230522/p_O.jpg",
+    "ingredients": ["Бананы", "Яблоко", "Вода", "Черноплодная рябина"],
+    "link": "https://eda.ru/recepty/napitki/osennij-fruktovo-jagodnij-smuzi-40329",
+    "nutrition": {
+      "calories": 290,
+      "carbohydrate": 66.7,
+      "fat": 1.1,
+      "protein": 4.3
+    },
+    "title": "Осенний фруктово-ягодный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/141111211643/141119174333/p_O.jpg",
+    "ingredients": ["Бананы", "Киви", "Свежая мята", "Йогурт"],
+    "link": "https://eda.ru/recepty/napitki/molochno-fruktovij-smuzi-s-mjatoj-47389",
+    "nutrition": {
+      "calories": 339,
+      "carbohydrate": 61.6,
+      "fat": 6.5,
+      "protein": 11.5
+    },
+    "title": "Молочно-фруктовый смузи с мятой"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/141224213517/150105180616/p_O.jpg",
+    "ingredients": ["Нутелла", "Банан", "Молоко", "Грецкие орехи"],
+    "link": "https://eda.ru/recepty/napitki/shokoladno-orehovij-smuzi-48071",
+    "nutrition": {
+      "calories": 373,
+      "carbohydrate": 38.4,
+      "fat": 22.1,
+      "protein": 8.1
+    },
+    "title": "Шоколадно-ореховый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/150420184224/150425182652/p_O.jpg",
+    "ingredients": ["Бананы", "Авокадо", "Шпинат", "Вода"],
+    "link": "https://eda.ru/recepty/napitki/avokado-smuzi-50289",
+    "nutrition": {
+      "calories": 638,
+      "carbohydrate": 98.5,
+      "fat": 25.7,
+      "protein": 11.4
+    },
+    "title": "Авокадо-смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/150506002001/150514082129/p_O.jpg",
+    "ingredients": ["Овсяная крупа", "Вода", "Молоко", "Бананы"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-ovsjankoj-i-bananom-50387",
+    "nutrition": {
+      "calories": 367,
+      "carbohydrate": 66.3,
+      "fat": 8.6,
+      "protein": 11.6
+    },
+    "title": "Смузи с овсянкой и бананом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/150428090447/150505143538/p_O.jpg",
+    "ingredients": ["Сельдерей", "Апельсины", "Вода"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-seldereem-i-apelsinom-50444",
+    "nutrition": {
+      "calories": 96,
+      "carbohydrate": 20.4,
+      "fat": 0.6,
+      "protein": 3.6
+    },
+    "title": "Смузи с сельдереем и апельсином"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120213175531/150801183953/p_O.jpg",
+    "ingredients": ["Молоко", "Банан", "Малина", "Сахар"],
+    "link": "https://eda.ru/recepty/napitki/malinovo-bananovij-smuzi-51828",
+    "nutrition": {
+      "calories": 201,
+      "carbohydrate": 37,
+      "fat": 4,
+      "protein": 5.5
+    },
+    "title": "Малиново-банановый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131082409/170429182113/p_O.jpg",
+    "ingredients": [
+      "Банан",
+      "Яблоко",
+      "Воздушная пшеница",
+      "Натуральный йогурт"
+    ],
+    "link": "https://eda.ru/recepty/napitki/bananovo-yablochnyy-smuzi-s-vozdushnoy-pshenicey-92995",
+    "nutrition": {
+      "calories": 135,
+      "carbohydrate": 32.2,
+      "fat": 0.3,
+      "protein": 2.1
+    },
+    "title": "Бананово-яблочный смузи с воздушной пшеницей"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131112204/120214130641/p_O.jpg",
+    "ingredients": [
+      "Ананасовый сок",
+      "Апельсиновый сок",
+      "Манго",
+      "Замороженная черника"
+    ],
+    "link": "https://eda.ru/recepty/napitki/purpurnij-mangovij-smuzi-24231",
+    "nutrition": {
+      "calories": 155,
+      "carbohydrate": 31.1,
+      "fat": 0.8,
+      "protein": 1.8
+    },
+    "title": "Пурпурный манговый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142412/p_O.jpg",
+    "ingredients": [
+      "Клубника",
+      "Пахта",
+      "Концентрированный клюквенный сок",
+      "Лед",
+      "Сахар"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-svezhej-klubniki-28524",
+    "nutrition": {
+      "calories": 55,
+      "carbohydrate": 10.1,
+      "fat": 0.5,
+      "protein": 2.3
+    },
+    "title": "Смузи из свежей клубники"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142458/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Яблочный сок",
+      "Замороженные ягоды",
+      "Мягкий тофу"
+    ],
+    "link": "https://eda.ru/recepty/napitki/jagodnij-smuzi-s-jablochnim-sokom-28558",
+    "nutrition": {
+      "calories": 67,
+      "carbohydrate": 13.1,
+      "fat": 1,
       "protein": 1.9
     },
-    "title": "Чесночный соус с уксусом"
+    "title": "Ягодный смузи с яблочным соком"
   },
   {
-    "image": "https://s1.eda.ru/StaticContent/Photos/120213183151/150507201627/p_O.jpg",
-    "ingredients": ["Чеснок", "Молотый красный перец", "Растительное масло"],
-    "link": "https://eda.ru/recepty/sousy-marinady/chesnochnij-sous-k-derunam-41418",
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214141717/120214142521/p_O.jpg",
+    "ingredients": [
+      "Мякоть папайи",
+      "Персиковый нектар",
+      "Пахта",
+      "Сахар",
+      "Сок лайма",
+      "Лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-papajej-persikami-28567",
     "nutrition": {
-      "calories": 309,
-      "carbohydrate": 8.3,
-      "fat": 30.1,
+      "calories": 94,
+      "carbohydrate": 20.6,
+      "fat": 0.2,
+      "protein": 1.3
+    },
+    "title": "Смузи с папайей и персиками"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142528/p_O.jpg",
+    "ingredients": [
+      "Манго",
+      "Ванильный йогурт",
+      "Концентрированный сок маракуйи",
+      "Вода",
+      "Лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-mango-marakujej-28571",
+    "nutrition": {
+      "calories": 83,
+      "carbohydrate": 13,
+      "fat": 1.3,
+      "protein": 1.8
+    },
+    "title": "Смузи с манго и маракуйей"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/130725133817/130802130612/p_O.jpg",
+    "ingredients": ["Бананы", "Мякоть арбуза"],
+    "link": "https://eda.ru/recepty/napitki/arbuzno-bananovij-smuzi-38878",
+    "nutrition": {
+      "calories": 213,
+      "carbohydrate": 51.7,
+      "fat": 0.3,
+      "protein": 3.8
+    },
+    "title": "Арбузно-банановый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140331015046/140405154337/p_O.jpg",
+    "ingredients": [
+      "Морковь",
+      "Капуста брокколи соцветия",
+      "Яблоко",
+      "Апельсины",
+      "Шпинат",
+      "Апельсиновый сок"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-brokkoli-shpinata-i-fruktov-43267",
+    "nutrition": {
+      "calories": 96,
+      "carbohydrate": 20.4,
+      "fat": 0.6,
+      "protein": 2.7
+    },
+    "title": "Смузи из брокколи, шпината и фруктов"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/110812141030/140424124426/p_O.jpg",
+    "ingredients": [
+      "Ананас",
+      "Малина замороженная",
+      "Рисовое ванильное молоко",
+      "Гречневые хлопья",
+      "Мята"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-ananasa-s-malinoj-43615",
+    "nutrition": {
+      "calories": 179,
+      "carbohydrate": 37.3,
+      "fat": 1.5,
+      "protein": 2.9
+    },
+    "title": "Смузи из ананаса с малиной"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140601161438/140611190306/p_O.jpg",
+    "ingredients": [
+      "Абрикосы",
+      "Персики",
+      "Свежевыжатый апельсиновый сок",
+      "Бананы",
+      "Лимон"
+    ],
+    "link": "https://eda.ru/recepty/napitki/persikovo-abrikosovij-smuzi-44815",
+    "nutrition": {
+      "calories": 135,
+      "carbohydrate": 32.6,
+      "fat": 0.4,
+      "protein": 3
+    },
+    "title": "Персиково-абрикосовый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131083410/150109133745/p_O.jpg",
+    "ingredients": [
+      "Малина",
+      "Клубника",
+      "Банан",
+      "Арбуз",
+      "Фруктовый сок",
+      "Овсяная крупа"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-arbuzom-48146",
+    "nutrition": {
+      "calories": 336,
+      "carbohydrate": 76.9,
+      "fat": 1.9,
+      "protein": 6.4
+    },
+    "title": "Смузи с арбузом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/150626190443/150702065240/p_O.jpg",
+    "ingredients": [
+      "Смородина",
+      "Овсяные хлопья",
+      "Кефир 1%-ый",
+      "Молотая корица"
+    ],
+    "link": "https://eda.ru/recepty/napitki/ovsjanij-smuzi-so-smorodinoj-48447",
+    "nutrition": {
+      "calories": 347,
+      "carbohydrate": 60.6,
+      "fat": 6.9,
+      "protein": 12.9
+    },
+    "title": "Овсяный смузи со смородиной"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/150215152606/150220135555/p_O.jpg",
+    "ingredients": [
+      "Кефир",
+      "Банан",
+      "Сушеная клюква",
+      "Семена льна",
+      "Овсяные хлопья",
+      "Мед"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/bananovo-kljukvennij-smuzi-s-ovsjanimi-hlopjami-i-semenami-lna-48990",
+    "nutrition": {
+      "calories": 670,
+      "carbohydrate": 134.8,
+      "fat": 10.4,
+      "protein": 16.1
+    },
+    "title": "Бананово-клюквенный смузи с овсяными хлопьями и семенами льна"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131085824/120214131310/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Замороженная клубника",
+      "Малина замороженная",
+      "Замороженная черника",
+      "Лимонный йогурт",
+      "Апельсиновый сок",
+      "Мед",
+      "Мягкий тофу"
+    ],
+    "link": "https://eda.ru/recepty/napitki/jagodno-bananovij-smuzi-s-limonnim-jogurtom-24564",
+    "nutrition": {
+      "calories": 136,
+      "carbohydrate": 25.9,
+      "fat": 1.9,
+      "protein": 4.9
+    },
+    "title": "Ягодно-банановый смузи с лимонным йогуртом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214134655/120214135315/p_O.jpg",
+    "ingredients": [
+      "Замороженная вишня",
+      "Замороженная клубника",
+      "Клюквенный сок"
+    ],
+    "link": "https://eda.ru/recepty/napitki/vishnevo-jagodnij-smuzi-26681",
+    "nutrition": {
+      "calories": 218,
+      "carbohydrate": 48.7,
+      "fat": 1.3,
+      "protein": 3.8
+    },
+    "title": "Вишнево-ягодный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120213175629/120214135439/p_O.jpg",
+    "ingredients": [
+      "Замороженная вишня",
+      "Ванильное молоко",
+      "Клюквенный сок",
+      "Нутелла",
+      "Ванильный йогурт"
+    ],
+    "link": "https://eda.ru/recepty/napitki/shokoladno-vishnevij-smuzi-26876",
+    "nutrition": {
+      "calories": 112,
+      "carbohydrate": 19.2,
+      "fat": 3.2,
+      "protein": 2.8
+    },
+    "title": "Шоколадно-вишневый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142456/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Канталупа",
+      "Обезжиренное сухое молоко",
+      "Натуральный обезжиренный йогурт",
+      "Концентрированный апельсиновый сок",
+      "Мед",
+      "Ванильный экстракт"
+    ],
+    "link": "https://eda.ru/recepty/napitki/dinnij-smuzi-s-jogurtom-medom-28557",
+    "nutrition": {
+      "calories": 185,
+      "carbohydrate": 38.5,
+      "fat": 1.4,
+      "protein": 5.9
+    },
+    "title": "Дынный смузи с йогуртом и медом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214142532/120214153703/p_O.jpg",
+    "ingredients": [
+      "Манго",
+      "Морковный сок",
+      "Мед",
+      "Натуральный обезжиренный йогурт",
+      "Сок лайма",
+      "Колотый лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/morkovno-mangovij-smuzi-28996",
+    "nutrition": {
+      "calories": 110,
+      "carbohydrate": 21.5,
+      "fat": 0.8,
+      "protein": 2.3
+    },
+    "title": "Морковно-манговый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120515204458/131118214002/p_O.jpg",
+    "ingredients": ["Манго", "Лимон", "Апельсины"],
+    "link": "https://eda.ru/recepty/napitki/mangovij-smuzi-40689",
+    "nutrition": {
+      "calories": 254,
+      "carbohydrate": 51.5,
+      "fat": 1.3,
+      "protein": 4.9
+    },
+    "title": "Манговый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140124100744/140131135540/p_O.jpg",
+    "ingredients": [
+      "Замороженная клубника",
+      "Апельсиновый сок",
+      "Натуральный йогурт",
+      "Бананы",
+      "Семена льна"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/klubnichnij-smuzi-42064",
+    "nutrition": {
+      "calories": 182,
+      "carbohydrate": 33.7,
+      "fat": 3.4,
+      "protein": 5.7
+    },
+    "title": "Клубничный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140209110544/140215041340/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Голубика",
+      "Мед",
+      "Изюм без косточек",
+      "Молоко",
+      "Овсяные хлопья"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/bananovij-smuzi-s-golubikoj-42340",
+    "nutrition": {
+      "calories": 460,
+      "carbohydrate": 87.2,
+      "fat": 8.9,
+      "protein": 12.9
+    },
+    "title": "Банановый смузи с голубикой"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/160812092111/160819130849/p_O.jpg",
+    "ingredients": ["Манго", "Зеленый базилик", "Лайм", "Апельсины", "Шпинат"],
+    "link": "https://eda.ru/recepty/napitki/mangovo-bazilikovij-smuzi-42400",
+    "nutrition": {
+      "calories": 111,
+      "carbohydrate": 21.7,
+      "fat": 0.6,
+      "protein": 2.3
+    },
+    "title": "Мангово-базиликовый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140331015046/140405171432/p_O.jpg",
+    "ingredients": ["Апельсины", "Грейпфруты", "Замороженные ягоды"],
+    "link": "https://eda.ru/recepty/napitki/jagodnij-smuzi-s-apelsinom-43271",
+    "nutrition": {
+      "calories": 34,
+      "carbohydrate": 7.4,
+      "fat": 0.3,
+      "protein": 0.8
+    },
+    "title": "Ягодный смузи с апельсином"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/130829212936/140420154537/p_O.jpg",
+    "ingredients": [
+      "Свежая кинза (кориандр)",
+      "Помидоры",
+      "Петрушка",
+      "Огурцы",
+      "Укроп",
+      "Творог",
+      "Кефир 1%-ый",
+      "Соевый соус",
+      "Молотый кумин (зира)",
+      "Куркума",
+      "Стебель сельдерея"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/ovoshhnoj-utrennij-smuzi-s-kefirom-43514",
+    "nutrition": {
+      "calories": 171,
+      "carbohydrate": 19.9,
+      "fat": 3.9,
+      "protein": 14.1
+    },
+    "title": "Овощной утренний смузи с кефиром"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/111021125327/140519085645/p_O.jpg",
+    "ingredients": ["Ананас", "Щавель", "Молодой шпинат", "Апельсины", "Лайм"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-ananasa-so-shhavelem-44128",
+    "nutrition": {
+      "calories": 127,
+      "carbohydrate": 27.3,
+      "fat": 0.6,
+      "protein": 2.1
+    },
+    "title": "Смузи из ананаса со щавелем"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214122930/140616175254/p_O.jpg",
+    "ingredients": [
+      "Зеленый сладкий перец",
+      "Рубленая петрушка",
+      "Сок лайма",
+      "Свежевыжатый яблочный сок",
+      "Свежая мята",
+      "Соль",
+      "Перец черный молотый",
+      "Кусковой сахар",
+      "Колотый лед",
+      "Яблоко",
+      "Огурцы"
+    ],
+    "link": "https://eda.ru/recepty/napitki/zelenij-gaspacho-dachnij-smuzi-44914",
+    "nutrition": {
+      "calories": 70,
+      "carbohydrate": 16.7,
+      "fat": 0.4,
+      "protein": 1.1
+    },
+    "title": "Зеленый гаспачо (Дачный смузи)"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131085148/140623171930/p_O.jpg",
+    "ingredients": ["Вишня", "Стебель сельдерея", "Огурцы", "Мята"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-vishni-s-ogurcom-45099",
+    "nutrition": {
+      "calories": 99,
+      "carbohydrate": 20.4,
+      "fat": 0.9,
+      "protein": 3.1
+    },
+    "title": "Смузи из вишни с огурцом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131085017/140804151009/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Нектарины",
+      "Дыня",
+      "Молотая корица",
+      "Свежий имбирь",
+      "Молотый мускатный орех",
+      "Молотый кардамон"
+    ],
+    "link": "https://eda.ru/recepty/napitki/prjanij-smuzi-s-bananom-dinej-i-nektarinom-45764",
+    "nutrition": {
+      "calories": 359,
+      "carbohydrate": 85.3,
+      "fat": 1.8,
+      "protein": 6.5
+    },
+    "title": "Пряный смузи с бананом, дыней и нектарином"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120213175233/140927181559/p_O.jpg",
+    "ingredients": ["Груши", "Дыня", "Кокосовое молоко"],
+    "link": "https://eda.ru/recepty/napitki/aromatnij-smuzi-s-dinej-46647",
+    "nutrition": {
+      "calories": 264,
+      "carbohydrate": 38.6,
+      "fat": 12.4,
+      "protein": 3.4
+    },
+    "title": "Ароматный смузи с дыней"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214154125/150320204840/p_O.jpg",
+    "ingredients": ["Яблоко", "Апельсины", "Клубника", "Бананы"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-klubnikoj-i-bananom-47871",
+    "nutrition": {
+      "calories": 403,
+      "carbohydrate": 86.8,
+      "fat": 2.7,
+      "protein": 5.2
+    },
+    "title": "Смузи с клубникой и бананом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140802212008/150331102240/p_O.png",
+    "ingredients": ["Голубика", "Банан", "Овсяная крупа", "Молоко"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-golubikoj-i-bananom-49737",
+    "nutrition": {
+      "calories": 254,
+      "carbohydrate": 45.3,
+      "fat": 6.5,
+      "protein": 8.9
+    },
+    "title": "Смузи с голубикой и бананом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/150420184224/150425184053/p_O.jpg",
+    "ingredients": [
+      "Апельсиновый сок",
+      "Зеленые яблоки",
+      "Свежие листья шпината",
+      "Ананас",
+      "Свежий имбирь"
+    ],
+    "link": "https://eda.ru/recepty/napitki/zeljonij-imbirnij-smuzi-50291",
+    "nutrition": {
+      "calories": 366,
+      "carbohydrate": 74.8,
+      "fat": 2.7,
+      "protein": 8.1
+    },
+    "title": "Зелёный имбирный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/150420184224/150425213512/p_O.jpg",
+    "ingredients": ["Шпинат", "Миндальное молоко", "Банан"],
+    "link": "https://eda.ru/recepty/zavtraki/smuzi-so-shpinatom-i-mindalnim-molokom-50298",
+    "nutrition": {
+      "calories": 373,
+      "carbohydrate": 61.5,
+      "fat": 11.6,
+      "protein": 9.4
+    },
+    "title": "Смузи со шпинатом и миндальным молоком"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/150601195903/150611132233/p_O.jpg",
+    "ingredients": [
+      "Банан",
+      "Растворимый кофе",
+      "Замороженная вишня",
+      "Ягодный сироп",
+      "Молоко"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-bananom-i-kofe-51019",
+    "nutrition": {
+      "calories": 342,
+      "carbohydrate": 73,
+      "fat": 3.6,
+      "protein": 8.2
+    },
+    "title": "Смузи с бананом и кофе"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/161026181903/161106093245/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Малина",
+      "Клубника",
+      "Кокосовое молоко",
+      "Мед",
+      "Лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/kokosovyy-smuzi-s-malinoy-69312",
+    "nutrition": {
+      "calories": 576,
+      "carbohydrate": 67.8,
+      "fat": 30.8,
+      "protein": 8
+    },
+    "title": "Кокосовый смузи с малиной"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214131925/120214132456/p_O.jpg",
+    "ingredients": ["Киви", "Ананас", "Лимон", "Фруктоза"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-kivi-25159",
+    "nutrition": {
+      "calories": 78,
+      "carbohydrate": 17.3,
+      "fat": 0.3,
+      "protein": 0.9
+    },
+    "title": "Смузи из киви"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131085751/120214135431/p_O.jpg",
+    "ingredients": [
+      "Замороженная клубника",
+      "Клюквенный сок",
+      "Апельсиновый сок",
+      "Клубника",
+      "Ванильный йогурт"
+    ],
+    "link": "https://eda.ru/recepty/napitki/klubnichnij-smuzi-s-kljukvennim-sokom-26835",
+    "nutrition": {
+      "calories": 178,
+      "carbohydrate": 31.6,
+      "fat": 2.3,
+      "protein": 5.2
+    },
+    "title": "Клубничный смузи с клюквенным соком"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131085935/120214135432/p_O.jpg",
+    "ingredients": [
+      "Замороженная клубника",
+      "Молоко 1%-ое",
+      "Ананасовый сок",
+      "Ванильный йогурт",
+      "Шоколадные чипсы",
+      "Какао-порошок"
+    ],
+    "link": "https://eda.ru/recepty/napitki/shokoladno-klubnichnij-smuzi-26838",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Шоколадно-клубничный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120214141717/120214142501/p_O.jpg",
+    "ingredients": [
+      "Манго",
+      "Ванильный йогурт",
+      "Персиковый шербет",
+      "Апельсиновый сок",
+      "Померанцевая вода"
+    ],
+    "link": "https://eda.ru/recepty/napitki/mangovij-smuzi-s-jogurtom-s-persikovim-sherbetom-28559",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Манговый смузи с йогуртом с персиковым шербетом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131085121/120214142555/p_O.jpg",
+    "ingredients": ["Манго", "Ананас", "Апельсиновый сок", "Ванильный йогурт"],
+    "link": "https://eda.ru/recepty/napitki/mangovo-ananasovij-smuzi-28706",
+    "nutrition": {
+      "calories": 288,
+      "carbohydrate": 56,
+      "fat": 2.3,
+      "protein": 3.6
+    },
+    "title": "Мангово-ананасовый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/131014225425/131026212554/p_O.jpg",
+    "ingredients": [
+      "Авокадо",
+      "Сельдерей",
+      "Соевый соус",
+      "Свежий имбирь",
+      "Сок лайма",
+      "Оливковое масло",
+      "Перец черный молотый",
+      "Черная соль",
+      "Вода"
+    ],
+    "link": "https://eda.ru/recepty/napitki/avokadno-seldereevij-smuzi-40316",
+    "nutrition": {
+      "calories": 792,
+      "carbohydrate": 53.8,
+      "fat": 61.7,
+      "protein": 10.5
+    },
+    "title": "Авокадно-сельдереевый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120213181523/140203175113/p_O.jpg",
+    "ingredients": ["Ананас", "Свежая мята", "Лайм", "Апельсины"],
+    "link": "https://eda.ru/recepty/napitki/ananasovo-mjatnij-smuzi-41992",
+    "nutrition": {
+      "calories": 90,
+      "carbohydrate": 19.8,
+      "fat": 0.5,
+      "protein": 2
+    },
+    "title": "Ананасово-мятный смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140209110544/140217205417/p_O.jpg",
+    "ingredients": [
+      "Имбирь",
+      "Яблоки «гренни-смит»",
+      "Груши «конференц»",
+      "Шпинат",
+      "Стебель сельдерея",
+      "Лайм"
+    ],
+    "link": "https://eda.ru/recepty/napitki/zelenij-smuzi-so-shpinatom-i-grushami-42374",
+    "nutrition": {
+      "calories": 118,
+      "carbohydrate": 25.9,
+      "fat": 1,
+      "protein": 2.1
+    },
+    "title": "Зеленый смузи со шпинатом и грушами"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131090009/140312220558/p_O.jpg",
+    "ingredients": [
+      "Свежие листья шпината",
+      "Авокадо",
+      "Груши",
+      "Яблоки «гренни-смит»",
+      "Сельдерей",
+      "Зеленый базилик",
+      "Лайм",
+      "Медовая дыня"
+    ],
+    "link": "https://eda.ru/recepty/napitki/samij-zelenij-v-mire-smuzi-42831",
+    "nutrition": {
+      "calories": 498,
+      "carbohydrate": 87.2,
+      "fat": 15.7,
+      "protein": 7.3
+    },
+    "title": "Самый зеленый в мире смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140310151157/140317104851/p_O.jpg",
+    "ingredients": ["Дыня", "Зеленый базилик", "Лайм", "Апельсины"],
+    "link": "https://eda.ru/recepty/napitki/dinno-bazilikovij-smuzi-42893",
+    "nutrition": {
+      "calories": 123,
+      "carbohydrate": 27.3,
+      "fat": 1,
+      "protein": 2.7
+    },
+    "title": "Дынно-базиликовый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140310151157/140319170902/p_O.jpg",
+    "ingredients": ["Ананас", "Мандарины", "Морковь", "Лайм"],
+    "link": "https://eda.ru/recepty/napitki/mandarinovo-morkovno-ananasovij-smuzi-42942",
+    "nutrition": {
+      "calories": 174,
+      "carbohydrate": 38,
+      "fat": 0.8,
+      "protein": 2.5
+    },
+    "title": "Мандариново-морковно-ананасовый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140321134811/140329193712/p_O.jpg",
+    "ingredients": [
+      "Киви",
+      "Лайм",
+      "Яблоки «гренни-смит»",
+      "Огурцы",
+      "Молодой шпинат"
+    ],
+    "link": "https://eda.ru/recepty/napitki/zelenij-smuzi-so-shpinatom-i-kivi-43134",
+    "nutrition": {
+      "calories": 181,
+      "carbohydrate": 37,
+      "fat": 1.8,
+      "protein": 3.8
+    },
+    "title": "Зеленый смузи со шпинатом и киви"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140321134811/140330154353/p_O.jpg",
+    "ingredients": [
+      "Свежемороженная брусника",
+      "Апельсины",
+      "Молоко",
+      "Мед",
+      "Орехи"
+    ],
+    "link": "https://eda.ru/recepty/napitki/brusnichno-apelsinovij-smuzi-43149",
+    "nutrition": {
+      "calories": 536,
+      "carbohydrate": 56.8,
+      "fat": 28.1,
+      "protein": 16.5
+    },
+    "title": "Бруснично-апельсиновый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120328144247/140411010816/p_O.jpg",
+    "ingredients": [
+      "Клубника",
+      "Ванильное мороженое",
+      "Молоко",
+      "Лимонный сок",
+      "Зеленый базилик",
+      "Ванильный сахар",
+      "Фейхоа"
+    ],
+    "link": "https://eda.ru/recepty/napitki/klubnichno-molochnij-smuzi-s-bazilikom-i-fejhoa-43361",
+    "nutrition": {
+      "calories": 445,
+      "carbohydrate": 52.3,
+      "fat": 20.2,
+      "protein": 12.1
+    },
+    "title": "Клубнично-молочный смузи с базиликом и фейхоа"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140424040926/140429231237/p_O.jpg",
+    "ingredients": ["Черника", "Бананы", "Свежая мята", "Яблоко"],
+    "link": "https://eda.ru/recepty/napitki/chernilnij-smuzi-43701",
+    "nutrition": {
+      "calories": 247,
+      "carbohydrate": 57.2,
+      "fat": 0.8,
+      "protein": 4
+    },
+    "title": "Чернильный смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140504151741/140510184406/p_O.jpg",
+    "ingredients": ["Грейпфруты", "Бананы", "Замороженная клюква", "Мед"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-grejpfrutom-bananom-i-kljukvoj-43908",
+    "nutrition": {
+      "calories": 193,
+      "carbohydrate": 47,
+      "fat": 0.3,
+      "protein": 3.4
+    },
+    "title": "Смузи с грейпфрутом, бананом и клюквой"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140802212008/140808223659/p_O.jpg",
+    "ingredients": ["Черная смородина", "Бананы", "Нектарины", "Апельсины"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-chernoj-smorodini-banana-i-nektarina-45828",
+    "nutrition": {
+      "calories": 307,
+      "carbohydrate": 69.4,
+      "fat": 1.5,
+      "protein": 6.5
+    },
+    "title": "Смузи из черной смородины, банана и нектарина"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140812180013/140823003830/p_O.jpg",
+    "ingredients": [
+      "Замороженная клубника",
+      "Лимон",
+      "Свежая мята",
+      "Зеленый чай"
+    ],
+    "link": "https://eda.ru/recepty/napitki/osvezhajushhij-klubnichnij-smuzi-46085",
+    "nutrition": {
+      "calories": 30,
+      "carbohydrate": 5.5,
+      "fat": 0.2,
       "protein": 1.7
     },
-    "title": "Чесночный соус к дерунам"
+    "title": "Освежающий клубничный смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/141006174525/141016170053/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Молоко",
+      "Замороженная черника",
+      "Мороженое",
+      "Творог"
+    ],
+    "link": "https://eda.ru/recepty/napitki/bananovij-smuzi-s-chernikoj-46901",
+    "nutrition": {
+      "calories": 209,
+      "carbohydrate": 36.3,
+      "fat": 5,
+      "protein": 6.4
+    },
+    "title": "Банановый смузи с черникой"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/141101010214/141107120418/p_O.jpg",
+    "ingredients": [
+      "Молоко",
+      "Растворимый кофе",
+      "Бананы",
+      "Кокосовая стружка",
+      "Черный шоколад 70%",
+      "Фундук",
+      "Лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/kofejnij-smuzi-s-shokoladom-i-bananom-47197",
+    "nutrition": {
+      "calories": 1476,
+      "carbohydrate": 147.3,
+      "fat": 89.5,
+      "protein": 23.4
+    },
+    "title": "Кофейный смузи с шоколадом и бананом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/130330144331/141207121805/p_O.jpg",
+    "ingredients": ["Морковь", "Яблоко", "Корень сельдерея"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-seldereem-morkovju-i-jablokom-47683",
+    "nutrition": {
+      "calories": 414,
+      "carbohydrate": 85,
+      "fat": 3.6,
+      "protein": 13.8
+    },
+    "title": "Смузи с сельдереем, морковью и яблоком"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140902214744/141207201924/p_O.jpg",
+    "ingredients": ["Банан", "Киви", "Авокадо", "Вода"],
+    "link": "https://eda.ru/recepty/napitki/zimnij-smuzi-iz-avokado-banana-i-kivi-47699",
+    "nutrition": {
+      "calories": 253,
+      "carbohydrate": 34.5,
+      "fat": 12.8,
+      "protein": 3.4
+    },
+    "title": "Зимний смузи из авокадо, банана и киви"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/150108085750/150112222925/p_O.jpg",
+    "ingredients": [
+      "Яблоко",
+      "Шпинат",
+      "Огурцы",
+      "Имбирь",
+      "Лайм",
+      "Мед",
+      "Вода"
+    ],
+    "link": "https://eda.ru/recepty/napitki/zelenij-smuzi-so-shpinatom-i-imbirem-48220",
+    "nutrition": {
+      "calories": 74,
+      "carbohydrate": 13.3,
+      "fat": 0.7,
+      "protein": 3.2
+    },
+    "title": "Зеленый смузи со шпинатом и имбирем"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131090615/150526215223/p_O.jpg",
+    "ingredients": ["Молоко", "Клубника", "Банан", "Ананас"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-klubnikoj-bananom-i-ananasami-50793",
+    "nutrition": {
+      "calories": 420,
+      "carbohydrate": 82.3,
+      "fat": 6.3,
+      "protein": 9.9
+    },
+    "title": "Смузи с клубникой, бананом и ананасами"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/150525210126/150529205415/p_O.jpg",
+    "ingredients": [
+      "Зеленая гречневая крупа",
+      "Банан",
+      "Киви",
+      "Груша",
+      "Мед",
+      "Свежевыжатый грейпфрутовый сок"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-prorostkami-zelenoj-grechki-50837",
+    "nutrition": {
+      "calories": 159,
+      "carbohydrate": 36.3,
+      "fat": 0.9,
+      "protein": 3.8
+    },
+    "title": "Смузи с проростками зеленой гречки"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131090009/150716180952/p_O.jpg",
+    "ingredients": [
+      "Вишня",
+      "Йогурт",
+      "Молоко",
+      "Корица",
+      "Овсяные хлопья",
+      "Мед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/vishnevij-smuzi-s-jogurtom-51516",
+    "nutrition": {
+      "calories": 232,
+      "carbohydrate": 37.6,
+      "fat": 6.5,
+      "protein": 7.5
+    },
+    "title": "Вишневый смузи с йогуртом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131085305/150724155211/p_O.jpg",
+    "ingredients": ["Соевое молоко", "Бананы", "Авокадо", "Свежие ягоды"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-avokado-i-bananami-51645",
+    "nutrition": {
+      "calories": 521,
+      "carbohydrate": 65.3,
+      "fat": 24.7,
+      "protein": 13.3
+    },
+    "title": "Смузи из авокадо и бананами"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/151021114948/151029002552/p_O.jpg",
+    "ingredients": ["Манго", "Апельсины", "Киви", "Стебель сельдерея"],
+    "link": "https://eda.ru/recepty/napitki/mangovo-citrusovij-smuzi-53278",
+    "nutrition": {
+      "calories": 441,
+      "carbohydrate": 85.6,
+      "fat": 2.7,
+      "protein": 9.7
+    },
+    "title": "Мангово-цитрусовый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/131031145327/151216140919/p_O.jpg",
+    "ingredients": [
+      "Свекла",
+      "Авокадо",
+      "Стебель сельдерея",
+      "Клубника",
+      "Яблоко",
+      "Лимонный сок"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-svekli-i-avokado-s-jeffektom-detoksa-55678",
+    "nutrition": {
+      "calories": 487,
+      "carbohydrate": 56.1,
+      "fat": 26.5,
+      "protein": 8
+    },
+    "title": "Смузи из свеклы и авокадо с эффектом детокса"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/160608133558/160616132929/p_O.jpg",
+    "ingredients": [
+      "Малина замороженная",
+      "Яблоко",
+      "Свежая мята",
+      "Яблочный сок без мякоти"
+    ],
+    "link": "https://eda.ru/recepty/napitki/malinovyy-smuzi-s-myatoy-ot-mitten-coffee-69622",
+    "nutrition": {
+      "calories": 128,
+      "carbohydrate": 28,
+      "fat": 1.3,
+      "protein": 1.9
+    },
+    "title": "Малиновый смузи с мятой от «Mitten Coffee»"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/160822164559/160829174451/p_O.jpg",
+    "ingredients": [
+      "Яблоко",
+      "Бананы",
+      "Мед",
+      "Натуральный обезжиренный йогурт",
+      "Обезжиренное молоко",
+      "Корица"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-yablokom-i-bananom-80418",
+    "nutrition": {
+      "calories": 380,
+      "carbohydrate": 81,
+      "fat": 2,
+      "protein": 9.6
+    },
+    "title": "Смузи с яблоком и бананом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214141717/120214142447/p_O.jpg",
+    "ingredients": [
+      "Консервированный ананас кусочками",
+      "Концентрированный апельсиновый сок",
+      "Ванильный йогурт",
+      "Вода",
+      "Лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/ananasovij-smuzi-s-jogurtom-28553",
+    "nutrition": {
+      "calories": 70,
+      "carbohydrate": 13.7,
+      "fat": 1,
+      "protein": 1.6
+    },
+    "title": "Ананасовый смузи с йогуртом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120515204458/120528182828/p_O.jpg",
+    "ingredients": [
+      "Молоко",
+      "Натуральный йогурт",
+      "Бананы",
+      "Зеленый чай (пудра)"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-listjami-zelenogo-chaja-31743",
+    "nutrition": {
+      "calories": 252,
+      "carbohydrate": 32.2,
+      "fat": 8.6,
+      "protein": 11.8
+    },
+    "title": "Смузи с листьями зеленого чая"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/130619134157/130625212207/p_O.jpg",
+    "ingredients": [
+      "Вода",
+      "Молоко",
+      "Ягоды асаи",
+      "Порошок спирулины",
+      "Какао-порошок",
+      "Ягоды годжи",
+      "Мак"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/utrennij-zelenij-smuzi-38291",
+    "nutrition": {
+      "calories": 375,
+      "carbohydrate": 33.3,
+      "fat": 27.9,
+      "protein": 17
+    },
+    "title": "Утренний зеленый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131111357/131116210925/p_O.jpg",
+    "ingredients": ["Фейхоа", "Лимон", "Апельсины", "Свежий эстрагон"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-jestragonom-i-fejhoa-40656",
+    "nutrition": {
+      "calories": 144,
+      "carbohydrate": 31.9,
+      "fat": 1.2,
+      "protein": 3.8
+    },
+    "title": "Смузи с эстрагоном и фейхоа"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140310151157/140318163335/p_O.jpg",
+    "ingredients": ["Ананас", "Бананы", "Красные грейпфруты", "Лайм"],
+    "link": "https://eda.ru/recepty/napitki/ananasovo-grepfrutovij-smuzi-41334",
+    "nutrition": {
+      "calories": 127,
+      "carbohydrate": 29,
+      "fat": 0.5,
+      "protein": 2.2
+    },
+    "title": "Ананасово-грепфрутовый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140220200817/140227135909/p_O.jpg",
+    "ingredients": ["Ананас", "Апельсины", "Салат корн", "Лимон"],
+    "link": "https://eda.ru/recepty/napitki/ananasovij-smuzi-kornom-42568",
+    "nutrition": {
+      "calories": 191,
+      "carbohydrate": 41.7,
+      "fat": 1.4,
+      "protein": 3.9
+    },
+    "title": "Ананасовый смузи корном"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/130725133817/140303181311/p_O.jpg",
+    "ingredients": ["Свекла", "Ананас", "Фенхель", "Лайм"],
+    "link": "https://eda.ru/recepty/napitki/svekolno-ananansovij-smuzi-s-fenhelem-42662",
+    "nutrition": {
+      "calories": 138,
+      "carbohydrate": 30,
+      "fat": 0.5,
+      "protein": 3.1
+    },
+    "title": "Свекольно-ананансовый смузи с фенхелем"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140331015046/140405172829/p_O.jpg",
+    "ingredients": [
+      "Стебель сельдерея",
+      "Свекла",
+      "Морковь",
+      "Помидоры",
+      "Чеснок",
+      "Карри",
+      "Куркума",
+      "Тмин",
+      "Очищенные семена тыквы"
+    ],
+    "link": "https://eda.ru/recepty/napitki/prjanij-tomatnij-smuzi-s-tikvennimi-semechkami-43273",
+    "nutrition": {
+      "calories": 117,
+      "carbohydrate": 10.5,
+      "fat": 6,
+      "protein": 4.9
+    },
+    "title": "Пряный томатный смузи с тыквенными семечками"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140331015046/140407210819/p_O.jpg",
+    "ingredients": [
+      "Фейхоа",
+      "Мята",
+      "Молодой шпинат",
+      "Яблоки «гренни-смит»",
+      "Груши «анжу»",
+      "Лайм",
+      "Стебель сельдерея"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-fejhoa-so-shpinatom-43302",
+    "nutrition": {
+      "calories": 135,
+      "carbohydrate": 29,
+      "fat": 1.5,
+      "protein": 2.6
+    },
+    "title": "Смузи из фейхоа со шпинатом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140321134811/140412120237/p_O.jpg",
+    "ingredients": ["Апельсины", "Грейпфруты", "Шпинат", "Корень сельдерея"],
+    "link": "https://eda.ru/recepty/napitki/zelenij-smuzi-s-citrusovim-sokom-43383",
+    "nutrition": {
+      "calories": 93,
+      "carbohydrate": 19.4,
+      "fat": 0.7,
+      "protein": 3.4
+    },
+    "title": "Зеленый смузи с цитрусовым соком"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/110805165929/140416174916/p_O.jpg",
+    "ingredients": [
+      "Мандарины",
+      "Ананас",
+      "Напиток рисовый isola bio",
+      "Гречневые хлопья"
+    ],
+    "link": "https://eda.ru/recepty/napitki/mandarinovo-ananasovij-smuzi-s-grechnevimi-hlopjami-43451",
+    "nutrition": {
+      "calories": 224,
+      "carbohydrate": 41.9,
+      "fat": 3.1,
+      "protein": 5.5
+    },
+    "title": "Мандариново-ананасовый смузи с гречневыми хлопьями"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/130725133817/140521071558/p_O.jpg",
+    "ingredients": [
+      "Вода",
+      "Зеленый виноград без косточек",
+      "Ананас",
+      "Лед",
+      "Зеленый чай"
+    ],
+    "link": "https://eda.ru/recepty/napitki/vinogradnij-smuzi-s-zelenim-chaem-44280",
+    "nutrition": {
+      "calories": 112,
+      "carbohydrate": 27.6,
+      "fat": 0.4,
+      "protein": 1
+    },
+    "title": "Виноградный смузи с зеленым чаем"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140219152153/140521100548/p_O.jpg",
+    "ingredients": [
+      "Манго",
+      "Лимон",
+      "Апельсины",
+      "Кокосовая вода",
+      "Гречневые хлопья",
+      "Груши"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-mango-i-grushi-s-grechnevimi-hlopjami-44291",
+    "nutrition": {
+      "calories": 181,
+      "carbohydrate": 37.4,
+      "fat": 1.2,
+      "protein": 3.7
+    },
+    "title": "Смузи из манго и груши с гречневыми хлопьями"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140518204129/140523140723/p_O.jpg",
+    "ingredients": [
+      "Авокадо",
+      "Яблоки «гренни-смит»",
+      "Груши «анжу»",
+      "Сельдерей",
+      "Зеленый перец",
+      "Лайм"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-avokado-44370",
+    "nutrition": {
+      "calories": 361,
+      "carbohydrate": 31.4,
+      "fat": 25.8,
+      "protein": 3.9
+    },
+    "title": "Смузи с авокадо"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131083308/140526110853/p_O.jpg",
+    "ingredients": ["Свежемороженная брусника", "Клубника", "Апельсины"],
+    "link": "https://eda.ru/recepty/napitki/klubnichno-brusnichnij-smuzi-44451",
+    "nutrition": {
+      "calories": 138,
+      "carbohydrate": 28.7,
+      "fat": 1.2,
+      "protein": 2.9
+    },
+    "title": "Клубнично-брусничный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140601161438/140608184456/p_O.jpg",
+    "ingredients": [
+      "Абрикосы",
+      "Манго",
+      "Свежевыжатый апельсиновый сок",
+      "Лайм"
+    ],
+    "link": "https://eda.ru/recepty/napitki/abrikosovo-mangovij-smuzi-44761",
+    "nutrition": {
+      "calories": 130,
+      "carbohydrate": 27.8,
+      "fat": 0.6,
+      "protein": 2.3
+    },
+    "title": "Абрикосово-манговый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140601161438/140610161328/p_O.jpg",
+    "ingredients": [
+      "Ананас",
+      "Бананы",
+      "Свежевыжатый апельсиновый сок",
+      "Ревень",
+      "Свежая мята"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-ananasa-s-revenem-44796",
+    "nutrition": {
+      "calories": 103,
+      "carbohydrate": 23.5,
+      "fat": 0.3,
+      "protein": 1.7
+    },
+    "title": "Смузи из ананаса с ревенем"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140612200952/140619180747/p_O.jpg",
+    "ingredients": [
+      "Ананас",
+      "Черная смородина",
+      "Мята",
+      "Соевое молоко",
+      "Сироп агавы"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-ananasa-i-chernoj-smorodini-45040",
+    "nutrition": {
+      "calories": 152,
+      "carbohydrate": 25,
+      "fat": 2.4,
+      "protein": 4.8
+    },
+    "title": "Смузи из ананаса и черной смородины"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120329181829/140707001956/p_O.jpg",
+    "ingredients": [
+      "Малина",
+      "Ананас",
+      "Свежая мята",
+      "Рисовое ванильное молоко"
+    ],
+    "link": "https://eda.ru/recepty/napitki/malinovo-ananasovij-smuzi-45284",
+    "nutrition": {
+      "calories": 146,
+      "carbohydrate": 28.9,
+      "fat": 1.3,
+      "protein": 2.2
+    },
+    "title": "Малиново-ананасовый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/131127180426/140708145653/p_O.jpg",
+    "ingredients": [
+      "Абрикосы",
+      "Бананы",
+      "Рисовое ванильное молоко",
+      "Натуральный йогурт"
+    ],
+    "link": "https://eda.ru/recepty/napitki/abrikosovo-bananovij-smuzi-45306",
+    "nutrition": {
+      "calories": 147,
+      "carbohydrate": 31.2,
+      "fat": 1.7,
+      "protein": 4.1
+    },
+    "title": "Абрикосово-банановый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140702130221/140713093045/p_O.jpg",
+    "ingredients": [
+      "Замороженная клюква",
+      "Замороженная черника",
+      "Замороженная ежевика",
+      "Клубника",
+      "Бананы",
+      "Соевое молоко",
+      "Зеленый чай",
+      "Мед",
+      "Тростниковый сахар"
+    ],
+    "link": "https://eda.ru/recepty/napitki/jagodnij-smuzi-s-zelenim-chaem-45376",
+    "nutrition": {
+      "calories": 183,
+      "carbohydrate": 41.1,
+      "fat": 1,
+      "protein": 3.8
+    },
+    "title": "Ягодный смузи с зеленым чаем"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140702130221/140713093752/p_O.jpg",
+    "ingredients": [
+      "Морковь",
+      "Капуста брокколи",
+      "Шпинат",
+      "Яблоко",
+      "Апельсиновый сок"
+    ],
+    "link": "https://eda.ru/recepty/napitki/zelenij-smuzi-s-apelsinovim-sokom-45377",
+    "nutrition": {
+      "calories": 676,
+      "carbohydrate": 128.1,
+      "fat": 8.8,
+      "protein": 63.3
+    },
+    "title": "Зеленый смузи с апельсиновым соком"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131085824/140715122450/p_O.jpg",
+    "ingredients": [
+      "Нектарины",
+      "Апельсины",
+      "Красные грейпфруты",
+      "Лайм",
+      "Ягоды годжи"
+    ],
+    "link": "https://eda.ru/recepty/napitki/nektarinovij-smuzi-s-jagodami-godzhi-45403",
+    "nutrition": {
+      "calories": 181,
+      "carbohydrate": 40.5,
+      "fat": 5.4,
+      "protein": 4.8
+    },
+    "title": "Нектариновый смузи с ягодами годжи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131082601/140823163409/p_O.jpg",
+    "ingredients": ["Свекла", "Киви", "Яблоко", "Сливы"],
+    "link": "https://eda.ru/recepty/napitki/svekolnij-smuzi-46128",
+    "nutrition": {"calories": 64, "carbohydrate": 14, "fat": 0.4, "protein": 2},
+    "title": "Свекольный смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/140823083249/140829181222/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "«активия натуральная»",
+      "Замороженная клубника",
+      "Зеленый виноград без косточек",
+      "Черная смородина"
+    ],
+    "link": "https://eda.ru/recepty/napitki/jagodnij-smuzi-s-aktivija-46246",
+    "nutrition": {
+      "calories": 303,
+      "carbohydrate": 59.6,
+      "fat": 4.2,
+      "protein": 8.6
+    },
+    "title": "Ягодный смузи с «Активия»"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120213175433/140916155809/p_O.jpg",
+    "ingredients": ["Ананас", "Морковь", "Инжир", "Апельсины", "Лимон"],
+    "link": "https://eda.ru/recepty/zavtraki/smuzi-iz-ananasa-i-inzhira-46451",
+    "nutrition": {
+      "calories": 193,
+      "carbohydrate": 42.7,
+      "fat": 0.9,
+      "protein": 4.4
+    },
+    "title": "Смузи из ананаса и инжира"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/110801145258/140924153449/p_O.jpg",
+    "ingredients": [
+      "Черноплодная рябина",
+      "Бананы",
+      "Антоновские яблоки",
+      "Лимон",
+      "Морковь",
+      "Авокадо"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/smuzi-s-chernoplodnoj-rjabinoj-46609",
+    "nutrition": {
+      "calories": 319,
+      "carbohydrate": 45.6,
+      "fat": 13.5,
+      "protein": 4.6
+    },
+    "title": "Смузи с черноплодной рябиной"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/141006174525/141017132927/p_O.jpg",
+    "ingredients": ["Киви", "Дыня", "Мята", "Лимон", "Соевое ванильное молоко"],
+    "link": "https://eda.ru/recepty/zavtraki/vanilnij-smuzi-iz-kivi-i-dini-46910",
+    "nutrition": {
+      "calories": 148,
+      "carbohydrate": 24.6,
+      "fat": 3,
+      "protein": 5.9
+    },
+    "title": "Ванильный смузи из киви и дыни"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/121102151737/141025184558/p_O.jpg",
+    "ingredients": ["Бананы", "Ананас", "Морковь", "Авокадо", "Лимон"],
+    "link": "https://eda.ru/recepty/napitki/oranzhevij-smuzi-47019",
+    "nutrition": {
+      "calories": 317,
+      "carbohydrate": 47.5,
+      "fat": 13,
+      "protein": 4.8
+    },
+    "title": "Оранжевый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/141020235636/141028144650/p_O.jpg",
+    "ingredients": [
+      "Черноплодная рябина",
+      "Свежая клюква",
+      "Брусника",
+      "Бананы",
+      "Авокадо"
+    ],
+    "link": "https://eda.ru/recepty/napitki/osennij-jagodnij-smuzi-47060",
+    "nutrition": {
+      "calories": 233,
+      "carbohydrate": 28.5,
+      "fat": 12.9,
+      "protein": 3.2
+    },
+    "title": "Осенний ягодный смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/141111211643/141120032603/p_O.jpg",
+    "ingredients": ["Клубника", "Черника", "Мюсли", "Молоко", "Сухофрукты"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-jagodnij-s-mjusli-47412",
+    "nutrition": {
+      "calories": 191,
+      "carbohydrate": 27.3,
+      "fat": 5.4,
+      "protein": 6.6
+    },
+    "title": "Смузи ягодный с мюсли"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/141224213517/150105175052/p_O.jpg",
+    "ingredients": [
+      "Черника",
+      "Банан",
+      "Вишневый сок",
+      "Корица",
+      "Лимонный сок"
+    ],
+    "link": "https://eda.ru/recepty/napitki/jagodnij-smuzi-s-koricej-48070",
+    "nutrition": {
+      "calories": 164,
+      "carbohydrate": 38.3,
+      "fat": 0.4,
+      "protein": 2.9
+    },
+    "title": "Ягодный смузи с корицей"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/141224213517/150105183305/p_O.jpg",
+    "ingredients": ["Грейпфруты", "Персик", "Ананас", "Морковный сок", "Мед"],
+    "link": "https://eda.ru/recepty/napitki/solnechnij-smuzi-s-medom-48072",
+    "nutrition": {
+      "calories": 89,
+      "carbohydrate": 20,
+      "fat": 0.3,
+      "protein": 1.1
+    },
+    "title": "Солнечный смузи с медом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/110805134417/150108133643/p_O.jpg",
+    "ingredients": ["Киви", "Шпинат", "Ананас"],
+    "link": "https://eda.ru/recepty/napitki/zelenij-smuzi-s-ananasom-48127",
+    "nutrition": {
+      "calories": 196,
+      "carbohydrate": 36.2,
+      "fat": 1.5,
+      "protein": 8
+    },
+    "title": "Зеленый смузи с ананасом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131083347/150109133353/p_O.jpg",
+    "ingredients": ["Абрикосы", "Киви", "Вишня", "Яблочный сок"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-abrikosom-i-kivi-48145",
+    "nutrition": {
+      "calories": 119,
+      "carbohydrate": 28.3,
+      "fat": 0.9,
+      "protein": 2
+    },
+    "title": "Смузи с абрикосом и киви"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/150420184224/150425185423/p_O.jpg",
+    "ingredients": [
+      "Красный виноград",
+      "Замороженная вишня",
+      "Свежая мята",
+      "Финики",
+      "Вода"
+    ],
+    "link": "https://eda.ru/recepty/napitki/mjatnij-vinogradnij-smuzi-50293",
+    "nutrition": {
+      "calories": 124,
+      "carbohydrate": 29,
+      "fat": 0.6,
+      "protein": 3
+    },
+    "title": "Мятный виноградный смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/150506002001/150513162548/p_O.jpg",
+    "ingredients": ["Бананы", "Ягоды годжи", "Замороженная клубника"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-jagodami-godzhi-50609",
+    "nutrition": {
+      "calories": 442,
+      "carbohydrate": 102.4,
+      "fat": 9.7,
+      "protein": 9.5
+    },
+    "title": "Смузи с ягодами годжи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/150514185621/150521220615/p_O.jpg",
+    "ingredients": ["Молодая крапива", "Свекла", "Банан", "Вода"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-krapivi-i-svekli-50728",
+    "nutrition": {
+      "calories": 201,
+      "carbohydrate": 43.9,
+      "fat": 0.7,
+      "protein": 7.3
+    },
+    "title": "Смузи из крапивы и свеклы"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/130924160547/150710150813/p_O.jpg",
+    "ingredients": ["Груши", "Апельсины", "Киви", "Свежая мята"],
+    "link": "https://eda.ru/recepty/napitki/fruktovij-koktejl-s-mjatoj-tropik-51410",
+    "nutrition": {
+      "calories": 161,
+      "carbohydrate": 37.6,
+      "fat": 1.2,
+      "protein": 3.1
+    },
+    "title": "Фруктовый коктейль с мятой «Тропик»"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/150723162213/150728222543/p_O.jpg",
+    "ingredients": [
+      "Дыня",
+      "Манго",
+      "Апельсины",
+      "Щавель",
+      "Сироп агавы",
+      "Цветочная пыльца"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-dinej-mango-shhavelem-i-bazilikom-51757",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Смузи с дыней, манго, щавелем и базиликом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/130822102925/151216131834/p_O.jpg",
+    "ingredients": [
+      "Вишня без косточек",
+      "Банан",
+      "Яблоко",
+      "Миндаль",
+      "Листья мяты",
+      "Черешня без косточек"
+    ],
+    "link": "https://eda.ru/recepty/napitki/jagodnij-smuzi-esli-ne-spitsja-55676",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Ягодный смузи «если не спится»"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/131004132748/151216134500/p_O.jpg",
+    "ingredients": [
+      "Абрикосы",
+      "Яблоко",
+      "Клубника",
+      "Инжир",
+      "Авокадо",
+      "Манго"
+    ],
+    "link": "https://eda.ru/recepty/napitki/fruktovij-smuzi-s-avokado-dlja-seksualnogo-zhelanija-55677",
+    "nutrition": {
+      "calories": 473,
+      "carbohydrate": 52.3,
+      "fat": 26.2,
+      "protein": 4.9
+    },
+    "title": "Фруктовый смузи с авокадо для сексуального желания"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/160123151717/160129195412/p_O.jpg",
+    "ingredients": [
+      "Яичный желток",
+      "Сахар",
+      "Молоко",
+      "Грейпфрутовый сок",
+      "Желатин в пластинах",
+      "Грейпфруты",
+      "Белый мелкий сахар",
+      "Каштановое пюре"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-kashtanami-i-grepfrutom-57357",
+    "nutrition": {
+      "calories": 249,
+      "carbohydrate": 40.1,
+      "fat": 7,
+      "protein": 6.5
+    },
+    "title": "Смузи с каштанами и грепфрутом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/160201161818/160206225614/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Овсяное молоко",
+      "Порошок плодов рожкового дерева",
+      "Вода",
+      "Кокосовая стружка",
+      "Финики без косточек",
+      "Молотая корица",
+      "Ванильный стручок"
+    ],
+    "link": "https://eda.ru/recepty/napitki/shokoladnyy-smuzi-na-osnove-ovsyanogo-moloka-57683",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Шоколадный смузи на основе овсяного молока"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/160501120547/160520002029/p_O.jpg",
+    "ingredients": [
+      "Апельсины",
+      "Бананы",
+      "Кокосовое масло",
+      "Семена чиа",
+      "Замороженная черника",
+      "Чай матча",
+      "Рисовые отруби"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/smuzi-s-chernikoy-i-bananom-s-dobavleniem-chaya-matcha-69310",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Смузи с черникой и бананом с добавлением чая матча"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/160513220037/160520003237/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Свежие листья шпината",
+      "Лимонный сок",
+      "Ананас",
+      "Натуральный обезжиренный йогурт",
+      "Вода",
+      "Тертый имбирь"
+    ],
+    "link": "https://eda.ru/recepty/napitki/zelenyy-bananovyy-smuzi-so-shpinatom-69311",
+    "nutrition": {
+      "calories": 742,
+      "carbohydrate": 157.4,
+      "fat": 4.4,
+      "protein": 12.9
+    },
+    "title": "Зеленый банановый смузи со шпинатом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/160513220037/160520004714/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Яблоко",
+      "Миндаль",
+      "Овсяные хлопья",
+      "Вода",
+      "Обезжиренное молоко",
+      "Натуральный обезжиренный йогурт",
+      "Корица",
+      "Мед",
+      "Лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-ovsyanymi-hlopyami-69313",
+    "nutrition": {
+      "calories": 485,
+      "carbohydrate": 91.4,
+      "fat": 8.7,
+      "protein": 12.5
+    },
+    "title": "Смузи с овсяными хлопьями"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131083434/160905151431/p_O.jpg",
+    "ingredients": [
+      "Манго",
+      "Морковь",
+      "Физалис",
+      "Апельсиновый сок",
+      "Молотая корица",
+      "Апельсиновый джем"
+    ],
+    "link": "https://eda.ru/recepty/napitki/morkovno-mangovyy-smuzi-s-fizalisom-80488",
+    "nutrition": {
+      "calories": 175,
+      "carbohydrate": 34.2,
+      "fat": 1.2,
+      "protein": 3.3
+    },
+    "title": "Морковно-манговый смузи с физалисом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/161211222131/161222170244/p_O.jpg",
+    "ingredients": [
+      "Вода",
+      "Гарам-масала",
+      "Слива",
+      "Груша",
+      "Виноградный сок",
+      "Лимонный сок",
+      "Мюсли",
+      "Йогурт"
+    ],
+    "link": "https://eda.ru/recepty/napitki/slivovo-grushevyy-smuzi-80980",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Сливово-грушевый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/110811170903/161212101936/p_O.jpg",
+    "ingredients": [
+      "Молоко",
+      "Банан",
+      "Овсяные хлопья",
+      "Молотая корица",
+      "Ваниль",
+      "Мед"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/pitatelnoe-bananovoe-smuzi-na-utro-91543",
+    "nutrition": {
+      "calories": 679,
+      "carbohydrate": 135.7,
+      "fat": 11.3,
+      "protein": 18.2
+    },
+    "title": "Питательное банановое смузи на утро"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/160115152344/170111232535/p_O.jpg",
+    "ingredients": ["Бананы", "Киви", "Мед", "Молоко"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-banana-i-kivi-na-moloke-91793",
+    "nutrition": {
+      "calories": 185,
+      "carbohydrate": 34.5,
+      "fat": 3.9,
+      "protein": 5
+    },
+    "title": "Смузи из банана и киви на молоке"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/170122183544/170131174816/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Малина замороженная",
+      "Клубничный йогурт",
+      "Земляничное пюре"
+    ],
+    "link": "https://eda.ru/recepty/napitki/klubnichno-malinovyy-smuzi-92074",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Клубнично- малиновый смузи"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/170210144850/170228185540/p_O.jpg",
+    "ingredients": [
+      "Замороженная черника",
+      "Банан",
+      "Клубника",
+      "Сливки",
+      "Овсяная крупа"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/chernichnyy-smuzi-so-slivkami-92365",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Черничный смузи со сливками"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/110804134510/170310164811/p_O.jpg",
+    "ingredients": [
+      "Мандарины",
+      "Листья шалфея",
+      "Фейхоа",
+      "Лед",
+      "Вода",
+      "Мед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/mandarinovyy-smuzi-s-shalfeem-i-feyhoa-92434",
+    "nutrition": {
+      "calories": 208,
+      "carbohydrate": 51.6,
+      "fat": 1,
+      "protein": 2.3
+    },
+    "title": "Мандариновый смузи с шалфеем и фейхоа"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131082527/170518162828/p_O.jpg",
+    "ingredients": ["Калпис", "Кокосовое молоко", "Шпинат", "Сахарный сироп"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-shpinat-s-kalpisom-93130",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Смузи «Шпинат с калписом»"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131082527/170518163521/p_O.jpg",
+    "ingredients": [
+      "Ревень",
+      "Персиковый сок",
+      "Карамельный сироп",
+      "Лимонный сок",
+      "Курага"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-reven-s-persikom-93132",
+    "nutrition": {
+      "calories": 238,
+      "carbohydrate": 56.2,
+      "fat": 0.4,
+      "protein": 4.6
+    },
+    "title": "Смузи «Ревень с персиком»"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131082650/170530145344/p_O.jpg",
+    "ingredients": [
+      "Бананы",
+      "Абрикосовое варенье",
+      "Лимонный сок",
+      "Лед",
+      "Малиновое пюре"
+    ],
+    "link": "https://eda.ru/recepty/napitki/bananovo-abrikosovyy-frouzen-s-malinoy-93246",
+    "nutrition": {
+      "calories": 84,
+      "carbohydrate": 20.9,
+      "fat": 0.1,
+      "protein": 0.8
+    },
+    "title": "Бананово-абрикосовый фроузен с малиной"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120131082650/170530145859/p_O.jpg",
+    "ingredients": [
+      "Лимонный сок",
+      "Лимон",
+      "Ванильный сироп",
+      "Сахарный сироп",
+      "Лед",
+      "Клубничное пюре"
+    ],
+    "link": "https://eda.ru/recepty/napitki/citrusovyy-frouzen-s-klubnikoy-i-vanilyu-93247",
+    "nutrition": {
+      "calories": 73,
+      "carbohydrate": 17.3,
+      "fat": 0.9,
+      "protein": 0.6
+    },
+    "title": "Цитрусовый фроузен с клубникой и ванилью"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131083308/170721133834/p_O.jpg",
+    "ingredients": [
+      "Дыня",
+      "Замороженная клубника",
+      "Печенье",
+      "Ванильное молоко"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-dyney-i-klubnikoy-93564",
+    "nutrition": {
+      "calories": 225,
+      "carbohydrate": 44.7,
+      "fat": 2,
+      "protein": 5.5
+    },
+    "title": "Смузи с дыней и клубникой"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120131083434/170802223922/p_O.jpg",
+    "ingredients": [
+      "Овсяные хлопья быстрого приготовления",
+      "Молоко",
+      "Ежевика",
+      "Натуральный йогурт",
+      "Банан",
+      "Мед",
+      "Лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-na-zavtrak-93638",
+    "nutrition": {
+      "calories": 235,
+      "carbohydrate": 39.1,
+      "fat": 5.4,
+      "protein": 9.3
+    },
+    "title": "Смузи на завтрак"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Бананы", "Грейпфруты", "Яблоко", "Апельсины"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-30985",
+    "nutrition": {
+      "calories": 190,
+      "carbohydrate": 44.2,
+      "fat": 0.7,
+      "protein": 3.6
+    },
+    "title": "Смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Бананы",
+      "Манго",
+      "Свежевыжатый апельсиновый сок",
+      "Натуральный йогурт"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-mango-i-banana-32793",
+    "nutrition": {
+      "calories": 153,
+      "carbohydrate": 30.4,
+      "fat": 1.2,
+      "protein": 3.3
+    },
+    "title": "Смузи из манго и банана"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Бананы", "Черника", "Питьевой йогурт", "Киви"],
+    "link": "https://eda.ru/recepty/napitki/jogurtovij-smuzi-s-kivi-bananom-i-chernikoj-40974",
+    "nutrition": {
+      "calories": 345,
+      "carbohydrate": 71.3,
+      "fat": 3.9,
+      "protein": 9.1
+    },
+    "title": "Йогуртовый смузи с киви, бананом и черникой"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Медовая дыня",
+      "Канталупа",
+      "Арбуз",
+      "Лимонад ситро",
+      "Колотый лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-dini-arbuza-25219",
+    "nutrition": {
+      "calories": 491,
+      "carbohydrate": 110.6,
+      "fat": 4.3,
+      "protein": 8.9
+    },
+    "title": "Смузи из дыни и арбуза"
   },
   {
     "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
     "ingredients": [
       "Помидоры",
       "Чеснок",
-      "Молотый красный перец",
-      "Хмели-сунели",
-      "Молотый кориандр"
+      "Растительное масло",
+      "Свекла",
+      "Морковь",
+      "Зелень",
+      "Огурцы"
     ],
-    "link": "https://eda.ru/recepty/sousy-marinady/tomatno-chesnochnij-sous-25457",
+    "link": "https://eda.ru/recepty/supy/smuzi-kefirno-ovoshhnoj-39045",
     "nutrition": {
-      "calories": 88,
-      "carbohydrate": 14.4,
-      "fat": 2.5,
-      "protein": 2.7
+      "calories": 91,
+      "carbohydrate": 19.3,
+      "fat": 0.4,
+      "protein": 3.7
     },
-    "title": "Томатно-чесночный соус"
+    "title": "Смузи кефирно-овощной"
   },
   {
     "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
     "ingredients": [
-      "Чеснок",
-      "Листья базилика",
-      "Хлебные крошки",
-      "Молоко",
-      "Яичный желток",
-      "Консервированный перец пименто",
-      "Фруктовое оливковое масло",
-      "Соль",
-      "Перец черный молотый",
-      "Соус табаско"
+      "Клубника",
+      "Кефир",
+      "Лимонный сок",
+      "Лед",
+      "Сахарная пудра"
     ],
-    "link": "https://eda.ru/recepty/sousy-marinady/ruil-krasnij-chesnochnij-sous-25572",
+    "link": "https://eda.ru/recepty/napitki/letnij-smuzi-s-klubnikoj-46171",
     "nutrition": {
-      "calories": 565,
-      "carbohydrate": 21,
-      "fat": 51.3,
-      "protein": 6.6
+      "calories": 119,
+      "carbohydrate": 23.4,
+      "fat": 1.7,
+      "protein": 3
     },
-    "title": "Руиль — красный чесночный соус"
+    "title": "Летний смузи с клубникой"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Персики",
+      "Зеленый виноград без косточек",
+      "Дыня",
+      "Мед",
+      "Свежесваренный зеленый чай",
+      "Лимонный сок"
+    ],
+    "link": "https://eda.ru/recepty/napitki/fruktovij-smuzi-s-zelenim-chaem-28543",
+    "nutrition": {
+      "calories": 262,
+      "carbohydrate": 60.6,
+      "fat": 1.9,
+      "protein": 4.2
+    },
+    "title": "Фруктовый смузи с зеленым чаем"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Манго", "Бананы", "Натуральный йогурт"],
+    "link": "https://eda.ru/recepty/napitki/bananovo-mangovij-smuzi-30815",
+    "nutrition": {
+      "calories": 577,
+      "carbohydrate": 88.6,
+      "fat": 10.7,
+      "protein": 19.5
+    },
+    "title": "Бананово-манговый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Абрикосы", "Кефир 1%-ый", "Свежая мята", "Прозрачный мед"],
+    "link": "https://eda.ru/recepty/napitki/abrikosovo-mjatnij-smuzi-38253",
+    "nutrition": {
+      "calories": 173,
+      "carbohydrate": 29.2,
+      "fat": 2.6,
+      "protein": 8.1
+    },
+    "title": "Абрикосово-мятный смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Бананы", "Мандарины", "Йогурт"],
+    "link": "https://eda.ru/recepty/napitki/mandarinovij-smuzi-s-jogurtom-41588",
+    "nutrition": {
+      "calories": 217,
+      "carbohydrate": 40.6,
+      "fat": 3.8,
+      "protein": 7.1
+    },
+    "title": "Мандариновый смузи с йогуртом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Козье молоко",
+      "Замороженная клубника",
+      "Замороженная черника",
+      "Бананы",
+      "Мед",
+      "Колотый лед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-kozego-moloka-s-jagodami-i-medom-44802",
+    "nutrition": {
+      "calories": 157,
+      "carbohydrate": 26.6,
+      "fat": 3.4,
+      "protein": 5.1
+    },
+    "title": "Смузи из козьего молока с ягодами и медом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Бананы",
+      "Молоко",
+      "Молотая корица",
+      "Натуральный обезжиренный йогурт",
+      "Молотый мускатный орех",
+      "Мята"
+    ],
+    "link": "https://eda.ru/recepty/napitki/bananovij-smuzi-s-koricej-46132",
+    "nutrition": {
+      "calories": 671,
+      "carbohydrate": 115,
+      "fat": 15.2,
+      "protein": 24.2
+    },
+    "title": "Банановый смузи с корицей"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Лимон", "Яблоко", "Бананы", "Ананас"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-jabloka-banana-ananasa-i-limona-47748",
+    "nutrition": {
+      "calories": 414,
+      "carbohydrate": 93.3,
+      "fat": 1.6,
+      "protein": 5.9
+    },
+    "title": "Смузи из яблока, банана, ананаса и лимона"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Ананас",
+      "Свежевыжатый апельсиновый сок",
+      "Бананы",
+      "Лайм"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-apelsinom-bananom-i-ananasom-47874",
+    "nutrition": {
+      "calories": 354,
+      "carbohydrate": 79.2,
+      "fat": 1.2,
+      "protein": 4
+    },
+    "title": "Смузи с апельсином, бананом и ананасом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Тыква", "Молоко", "Молотая корица", "Мед"],
+    "link": "https://eda.ru/recepty/napitki/tikvennij-smuzi-50457",
+    "nutrition": {
+      "calories": 170,
+      "carbohydrate": 21.2,
+      "fat": 7.4,
+      "protein": 7.2
+    },
+    "title": "Тыквенный смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Обезжиренный творог",
+      "Молоко 1%-ое",
+      "Замороженные ягоды"
+    ],
+    "link": "https://eda.ru/recepty/napitki/yagodnyy-smuzi-fitness-92013",
+    "nutrition": {
+      "calories": 229,
+      "carbohydrate": 19.8,
+      "fat": 2.5,
+      "protein": 32.1
+    },
+    "title": "Ягодный смузи «Fitness»"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Бананы", "Киви", "Лайм", "Ананас", "Мята"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-tropikana-92799",
+    "nutrition": {
+      "calories": 328,
+      "carbohydrate": 75.9,
+      "fat": 1,
+      "protein": 4.7
+    },
+    "title": "Смузи «Тропикана»"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Сок из красных апельсинов",
+      "Бананы",
+      "Обезжиренный йогурт",
+      "Черника"
+    ],
+    "link": "https://eda.ru/recepty/napitki/bananovij-smuzi-32471",
+    "nutrition": {
+      "calories": 315,
+      "carbohydrate": 63.3,
+      "fat": 0.8,
+      "protein": 15.3
+    },
+    "title": "Банановый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Апельсины",
+      "Мандарины",
+      "Бананы",
+      "Лимон",
+      "Лайм",
+      "Молоко"
+    ],
+    "link": "https://eda.ru/recepty/napitki/citrusovij-smuzi-32500",
+    "nutrition": {
+      "calories": 240,
+      "carbohydrate": 56.2,
+      "fat": 1,
+      "protein": 5
+    },
+    "title": "Цитрусовый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Бананы",
+      "Черная смородина",
+      "Малина",
+      "Клубника",
+      "Молоко",
+      "Йогурт"
+    ],
+    "link": "https://eda.ru/recepty/napitki/jagodnij-smuzi-s-bananom-32792",
+    "nutrition": {
+      "calories": 349,
+      "carbohydrate": 60.1,
+      "fat": 7.5,
+      "protein": 11.9
+    },
+    "title": "Ягодный смузи с бананом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Апельсины",
+      "Грейпфруты",
+      "Бананы",
+      "Лед",
+      "Цедра апельсина"
+    ],
+    "link": "https://eda.ru/recepty/napitki/citrusovo-bananovij-smuzi-37862",
+    "nutrition": {
+      "calories": 423,
+      "carbohydrate": 100.6,
+      "fat": 1.2,
+      "protein": 8.4
+    },
+    "title": "Цитрусово-банановый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Бананы", "Малиновое варенье"],
+    "link": "https://eda.ru/recepty/vypechka-deserty/fruktovo-jagodnij-smuzi-s-varenem-39014",
+    "nutrition": {
+      "calories": 315,
+      "carbohydrate": 78.8,
+      "fat": 0.3,
+      "protein": 3.3
+    },
+    "title": "Фруктово-ягодный смузи с вареньем"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Клубника",
+      "Бананы",
+      "Натуральный йогурт",
+      "Ванильный стручок"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/bananovoe-smuzi-s-klubnikoj-i-vanilju-39707",
+    "nutrition": {
+      "calories": 300,
+      "carbohydrate": 52.7,
+      "fat": 5.2,
+      "protein": 10.9
+    },
+    "title": "Банановое смузи с клубникой и ванилью"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Маракуйя", "Бананы", "Ананас", "Апельсины", "Лайм"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-marakujej-41252",
+    "nutrition": {
+      "calories": 167,
+      "carbohydrate": 37.5,
+      "fat": 0.7,
+      "protein": 3.7
+    },
+    "title": "Смузи с маракуйей"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Замороженная вишня", "Бананы", "Вишневый сок"],
+    "link": "https://eda.ru/recepty/napitki/vishnevij-smuzi-41590",
+    "nutrition": {
+      "calories": 159,
+      "carbohydrate": 37.5,
+      "fat": 0.3,
+      "protein": 2.7
+    },
+    "title": "Вишневый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Ананас", "Белые грейпфруты", "Лимон"],
+    "link": "https://eda.ru/recepty/napitki/ananasovo-grejpfrutovij-smuzi-42306",
+    "nutrition": {
+      "calories": 136,
+      "carbohydrate": 30,
+      "fat": 0.8,
+      "protein": 2.4
+    },
+    "title": "Ананасово-грейпфрутовый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Киви",
+      "Яблоко",
+      "Стебель сельдерея",
+      "Зеленый базилик",
+      "Вода",
+      "Мед"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-kivi-i-jablok-46172",
+    "nutrition": {
+      "calories": 77,
+      "carbohydrate": 16,
+      "fat": 0.8,
+      "protein": 1.4
+    },
+    "title": "Смузи из киви и яблок"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Черника", "Натуральный йогурт", "Ягодный сок"],
+    "link": "https://eda.ru/recepty/napitki/chernichnij-smuzi-46173",
+    "nutrition": {
+      "calories": 124,
+      "carbohydrate": 9.6,
+      "fat": 5,
+      "protein": 8.1
+    },
+    "title": "Черничный смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Лимон", "Свежий имбирь", "Мед"],
+    "link": "https://eda.ru/recepty/napitki/teplij-smuzi-47869",
+    "nutrition": {
+      "calories": 76,
+      "carbohydrate": 19.3,
+      "fat": 0.1,
+      "protein": 0.8
+    },
+    "title": "Теплый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Яблоко", "Голубика", "Ежевика", "Бананы", "Апельсины"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-ezhevikoj-i-golubikoj-47873",
+    "nutrition": {
+      "calories": 424,
+      "carbohydrate": 93.2,
+      "fat": 2.3,
+      "protein": 7.3
+    },
+    "title": "Смузи с ежевикой и голубикой"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Манго",
+      "Бананы",
+      "Маракуйя",
+      "Яблоко",
+      "Апельсины",
+      "Тыквенное пюре"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-mango-marakujej-i-tikvoj-47875",
+    "nutrition": {
+      "calories": 528,
+      "carbohydrate": 104,
+      "fat": 6,
+      "protein": 6.8
+    },
+    "title": "Смузи с манго, маракуйей и тыквой"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Молоко",
+      "Натуральный йогурт",
+      "Черника",
+      "Мед",
+      "Ягоды годжи",
+      "Семена чиа"
+    ],
+    "link": "https://eda.ru/recepty/napitki/jagodnij-smuzi-s-semenami-chia-i-jagodami-godzhi-49478",
+    "nutrition": {
+      "calories": 172,
+      "carbohydrate": 21.1,
+      "fat": 8.1,
+      "protein": 7.3
+    },
+    "title": "Ягодный смузи с семенами чиа и ягодами годжи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Киви",
+      "Свежесваренный зеленый чай",
+      "Яблоко",
+      "Груша",
+      "Свежая мята",
+      "Семена чиа",
+      "Ягоды годжи"
+    ],
+    "link": "https://eda.ru/recepty/napitki/mjatnij-smuzi-na-osnove-zelenogo-chaja-49480",
+    "nutrition": {
+      "calories": 96,
+      "carbohydrate": 17.9,
+      "fat": 4,
+      "protein": 2.5
+    },
+    "title": "Мятный смузи на основе зеленого чая"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Эспрессо",
+      "Молоко",
+      "Банан",
+      "Сгущенное молоко",
+      "Тертый шоколад"
+    ],
+    "link": "https://eda.ru/recepty/napitki/kofejnij-smuzi-s-bananom-i-sgushhennim-molokom-51021",
+    "nutrition": {
+      "calories": 471,
+      "carbohydrate": 90.7,
+      "fat": 9.9,
+      "protein": 9.6
+    },
+    "title": "Кофейный смузи с бананом и сгущенным молоком"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Бананы", "Красные сливы"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-dujet-banana-i-slivi-51156",
+    "nutrition": {
+      "calories": 197,
+      "carbohydrate": 47.9,
+      "fat": 0.3,
+      "protein": 3.4
+    },
+    "title": "Смузи «Дуэт банана и сливы»"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Ягоды асаи",
+      "Бананы",
+      "Черника",
+      "Виноград",
+      "Апельсины",
+      "Гранаты",
+      "Лимонный сок"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-granata-cherniki-i-asai-51477",
+    "nutrition": {
+      "calories": 228,
+      "carbohydrate": 56.6,
+      "fat": 0.5,
+      "protein": 4.2
+    },
+    "title": "Смузи из граната, черники и асаи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Яблоко", "Лайм", "Ростки пшеницы"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-jabloka-i-lajma-s-rostkami-pshenici-52142",
+    "nutrition": {
+      "calories": 106,
+      "carbohydrate": 21.9,
+      "fat": 0.9,
+      "protein": 1.4
+    },
+    "title": "Смузи из яблока и лайма с ростками пшеницы"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Бананы", "Яблоко", "Свекла"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-jabloka-banana-i-svekli-52143",
+    "nutrition": {
+      "calories": 176,
+      "carbohydrate": 40.4,
+      "fat": 0.6,
+      "protein": 3.4
+    },
+    "title": "Смузи из яблока, банана и свеклы"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Яблоко", "Киви", "Помидоры", "Лайм"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-jabloka-i-kivi-s-lajmom-52145",
+    "nutrition": {
+      "calories": 73,
+      "carbohydrate": 15.2,
+      "fat": 0.7,
+      "protein": 1.2
+    },
+    "title": "Смузи из яблока и киви с лаймом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Морковь", "Тыква", "Яблоко", "Мед", "Лед"],
+    "link": "https://eda.ru/recepty/zavtraki/smuzi-s-morkovyu-i-tykvoy-58535",
+    "nutrition": {
+      "calories": 154,
+      "carbohydrate": 36.8,
+      "fat": 0.7,
+      "protein": 2.2
+    },
+    "title": "Смузи с морковью и тыквой"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Черника",
+      "Клубника",
+      "Грушевый сок",
+      "Сахарный сироп",
+      "Порошок спирулины",
+      "Семена чиа"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-yagod-s-grushevym-sokom-69540",
+    "nutrition": {
+      "calories": 149,
+      "carbohydrate": 32.3,
+      "fat": 1.5,
+      "protein": 1.7
+    },
+    "title": "Смузи из ягод с грушевым соком"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Яблоко",
+      "Фенхель",
+      "Морковь",
+      "Имбирь",
+      "Яблочный сок с мякотью",
+      "Свежевыжатый лимонный сок"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-jabloka-morkovi-imbirja-i-fenhelja-54137",
+    "nutrition": {
+      "calories": 121,
+      "carbohydrate": 26.4,
+      "fat": 1.1,
+      "protein": 1.8
+    },
+    "title": "Смузи из яблока, моркови, имбиря и фенхеля"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Дыня",
+      "Лайковая содовая",
+      "Свежая мята",
+      "Ванильное молоко",
+      "Соль",
+      "Свежевыжатый сок лайма",
+      "Киви",
+      "Мангольд"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-s-mangoldom-lajmom-i-mjatoj-54141",
+    "nutrition": {
+      "calories": null,
+      "carbohydrate": null,
+      "fat": null,
+      "protein": null
+    },
+    "title": "Смузи с мангольдом, лаймом и мятой"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Апельсины",
+      "Бананы",
+      "Апельсиновый сок",
+      "Замороженные ягоды"
+    ],
+    "link": "https://eda.ru/recepty/napitki/yagodno-apelsinovyy-smuzi-80574",
+    "nutrition": {
+      "calories": 318,
+      "carbohydrate": 74.1,
+      "fat": 1.3,
+      "protein": 6.1
+    },
+    "title": "Ягодно-апельсиновый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Бананы",
+      "Натуральный обезжиренный йогурт",
+      "Замороженная черника",
+      "Гранола",
+      "Мед"
+    ],
+    "link": "https://eda.ru/recepty/vypechka-deserty/bananovij-smuzi-na-zavtrak-54190",
+    "nutrition": {
+      "calories": 321,
+      "carbohydrate": 65.4,
+      "fat": 4.3,
+      "protein": 8.5
+    },
+    "title": "Банановый смузи на завтрак"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Замороженная черника",
+      "Киви",
+      "Бананы",
+      "Финики",
+      "Овсяная крупа",
+      "Вода"
+    ],
+    "link": "https://eda.ru/recepty/vypechka-deserty/chernichnij-smuzi-iz-ovsjanki-56052",
+    "nutrition": {
+      "calories": 502,
+      "carbohydrate": 115,
+      "fat": 5.3,
+      "protein": 12.5
+    },
+    "title": "Черничный смузи из овсянки"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Вишня",
+      "Бананы",
+      "Греческий йогурт",
+      "Миндальное молоко",
+      "Лед",
+      "Ваниль"
+    ],
+    "link": "https://eda.ru/recepty/napitki/bananovo-vishnevyy-smuzi-92389",
+    "nutrition": {
+      "calories": 421,
+      "carbohydrate": 61.7,
+      "fat": 14.9,
+      "protein": 12.2
+    },
+    "title": "Бананово-вишневый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Мягкий творог",
+      "Молоко",
+      "Замороженная черника",
+      "Сахар",
+      "Лимонная цедра"
+    ],
+    "link": "https://eda.ru/recepty/napitki/chernichnyy-smuzi-s-tvorogom-92391",
+    "nutrition": {
+      "calories": 78,
+      "carbohydrate": 9.4,
+      "fat": 2.1,
+      "protein": 5.3
+    },
+    "title": "Черничный смузи с творогом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Свежевыжатый апельсиновый сок",
+      "Рисовое ванильное молоко",
+      "Бананы",
+      "Ваниль"
+    ],
+    "link": "https://eda.ru/recepty/napitki/apelsinovyy-smuzi-s-risovym-molokom-57507",
+    "nutrition": {
+      "calories": 181,
+      "carbohydrate": 40.1,
+      "fat": 1.1,
+      "protein": 3.6
+    },
+    "title": "Апельсиновый смузи с рисовым молоком"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Миндальное молоко",
+      "Миндальное масло",
+      "Чернослив",
+      "Корица",
+      "Бананы"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/bodryaschiy-bananovyy-smuzi-57598",
+    "nutrition": {
+      "calories": 690,
+      "carbohydrate": 65.7,
+      "fat": 44.7,
+      "protein": 11.7
+    },
+    "title": "Бодрящий банановый смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Апельсиновый сок",
+      "Молоко",
+      "Вода",
+      "Сахар",
+      "Лед",
+      "Ваниль"
+    ],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-zamorozhennogo-apelsinovogo-soka-57624",
+    "nutrition": {
+      "calories": 73,
+      "carbohydrate": 15.4,
+      "fat": 0.9,
+      "protein": 1
+    },
+    "title": "Смузи из замороженного апельсинового сока"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Клубника", "Молоко", "Вода", "Сахар", "Ваниль"],
+    "link": "https://eda.ru/recepty/zavtraki/vanilnyy-klubnichnyy-smuzi-57625",
+    "nutrition": {
+      "calories": 83,
+      "carbohydrate": 16.6,
+      "fat": 1.1,
+      "protein": 1.1
+    },
+    "title": "Ванильный клубничный смузи"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Лед",
+      "Бананы",
+      "Яблочный соус",
+      "Яблочный сок",
+      "Сахар",
+      "Молотый мускатный орех",
+      "Молотая корица",
+      "Молотая гвоздика",
+      "Натуральный обезжиренный йогурт"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/smuzi-so-vkusom-yablochnogo-piroga-57626",
+    "nutrition": {
+      "calories": 483,
+      "carbohydrate": 108,
+      "fat": 3.8,
+      "protein": 8.7
+    },
+    "title": "Смузи со вкусом яблочного пирога"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Замороженная черника",
+      "Бананы",
+      "Яблоко",
+      "Молодой шпинат",
+      "Свежий имбирь",
+      "Корица",
+      "Арахисовая паста"
+    ],
+    "link": "https://eda.ru/recepty/zavtraki/zelenyy-smuzi-s-chernikoy-57627",
+    "nutrition": {
+      "calories": 258,
+      "carbohydrate": 53.9,
+      "fat": 3.3,
+      "protein": 5.1
+    },
+    "title": "Зеленый смузи с черникой"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": ["Свежие ягоды", "Бананы", "Апельсиновый сок", "Лед"],
+    "link": "https://eda.ru/recepty/napitki/smuzi-iz-yagod-s-limonom-93948",
+    "nutrition": {
+      "calories": 125,
+      "carbohydrate": 27.5,
+      "fat": 0.5,
+      "protein": 2.6
+    },
+    "title": "Смузи из ягод с лимоном"
   }
 ]
