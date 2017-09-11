@@ -3,12 +3,14 @@ import JSONFormatter from 'json-stringify-pretty-compact'
 import fs from 'fs'
 import vo from 'vo'
 import clic from 'cllc'
+import grabber from './grabber'
+import scheme from './scheme'
+import normalize from './normalize'
 
 const log = clic()
 
 const nighmareOptions = {
   // show: true,
-  executionTimeout: 100000,
   openDevTools: {
     mode: 'detach'
   },
@@ -23,7 +25,7 @@ const selectors = {
   loadBtn: '.js-load-more-btn',
   loader: '.js-load-more-on-click',
   link: '.horizontal-tile__item-title > a:first-child',
-} // мб сделать глобальной переменной, если возможно?
+}
 
 const getLinks = (selectors) => {
   const elems = document.querySelectorAll(selectors.link)
@@ -36,12 +38,18 @@ const getLinks = (selectors) => {
 }
 
 const writeInFile = res => {
-  console.log(`Finded ${res.length} links`)
-  fs.writeFileSync('result.json', JSONFormatter(res))
+  const formatedData = JSONFormatter(res)
+  return new Promise((resolve, reject) => {
+    return fs.writeFile('result.json', formatedData, err => {
+      if (err) return reject(err)
+
+      resolve(formatedData)
+    })
+  })
 }
 
 const clickOnBtn = ({ selectors }) => {
-  const loadNewItems = selectors => resolve => { // надо бы передавать эту функцию в аргументы
+  const loadNewItems = selectors => resolve => {
     const btn = document.querySelector(selectors.loadBtn)
     const loader = document.querySelector(selectors.loader)
     const click = () => btn.click()
@@ -64,8 +72,7 @@ const clickOnBtn = ({ selectors }) => {
 }
 
 function * run () {
-  // yield nightmare.goto('https://eda.ru/recepty/smuzi')
-  yield nightmare.goto('https://eda.ru/recepty/chesnochnij-sous')
+  yield nightmare.goto('https://eda.ru/recepty/smuzi')
 
   log.info('Browser opened start page')
 
@@ -79,24 +86,30 @@ function * run () {
 
   log.start('Links parsed %s', 0)
 
-  const titles = []
+  const result = []
 
   for (let link of links) {
-    const title = yield nightmare.goto(link).wait('body').title() // заменить на настоящий парсинг
+    const resultItem = yield nightmare.goto(link)
+      .evaluate(grabber, {
+        scheme,
+        url: link,
+      })
 
-    log.info('Parsing url' + link)
+    log.info('Parsing url ' + link)
     log.step()
 
-    titles.push(title)
+    result.push(resultItem)
   }
 
   log.stop()
 
   yield nightmare.end()
 
-  // запись в файл
+  const normalizedResult = normalize(result)
+
+  yield writeInFile(normalizedResult)
 }
 
-vo(run)(function(err, result) {
+vo(run)((err, result) => {
   if (err) throw err
 })

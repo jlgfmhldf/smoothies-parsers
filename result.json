@@ -1,0 +1,158 @@
+[
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/110825150222/120213175436/p_O.jpg",
+    "ingredients": [
+      "Сливочное масло",
+      "Пшеничная мука",
+      "Мясной бульон",
+      "Уксус",
+      "Чеснок",
+      "Соль"
+    ],
+    "link": "https://eda.ru/recepty/sousy-marinady/chesnochnij-sous-16245",
+    "nutrition": {
+      "calories": 36,
+      "carbohydrate": 4.1,
+      "fat": 1.8,
+      "protein": 0.9
+    },
+    "title": "Чесночный соус"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/140220200817/140225120355/p_O.jpg",
+    "ingredients": [
+      "Рис",
+      "Морковь",
+      "Лук-порей",
+      "Чеснок",
+      "Соевый соус",
+      "Яйцо куриное",
+      "Зеленый лук перья",
+      "Кунжутные семечки",
+      "Филе куриной грудки"
+    ],
+    "link": "https://eda.ru/recepty/osnovnye-blyuda/chesnochnij-ris-s-soevim-sousom-42543",
+    "nutrition": {
+      "calories": 678,
+      "carbohydrate": 116.9,
+      "fat": 7.1,
+      "protein": 39.5
+    },
+    "title": "Чесночный рис с соевым соусом"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/130611145209/150607031115/p_O.jpg",
+    "ingredients": [
+      "Сметана",
+      "Чеснок",
+      "Укроп",
+      "Соль",
+      "Перец черный молотый"
+    ],
+    "link": "https://eda.ru/recepty/sousy-marinady/smetanno-chesnochnij-sous-50956",
+    "nutrition": {
+      "calories": 118,
+      "carbohydrate": 5.7,
+      "fat": 9.5,
+      "protein": 2.6
+    },
+    "title": "Сметанно-чесночный соус"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120213175629/1202131757181/p_O.jpg",
+    "ingredients": ["Чеснок", "Сметана", "Куриный бульон"],
+    "link": "https://eda.ru/recepty/sousy-marinady/sous-chesnochnij-17112",
+    "nutrition": {
+      "calories": 27,
+      "carbohydrate": 4.9,
+      "fat": 0.2,
+      "protein": 1.5
+    },
+    "title": "Соус чесночный"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/110811170903/120214141719/p_O.jpg",
+    "ingredients": [
+      "Соевый соус",
+      "Рисовый уксус",
+      "Лимонный сок",
+      "Чеснок",
+      "Рубленная кинза (кориандр)",
+      "Тертый имбирь",
+      "Кунжутное масло"
+    ],
+    "link": "https://eda.ru/recepty/sousy-marinady/imbirno-chesnochnij-sous-28128",
+    "nutrition": {
+      "calories": 81,
+      "carbohydrate": 5.8,
+      "fat": 5.1,
+      "protein": 3.1
+    },
+    "title": "Имбирно-чесночный соус"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/Photos/120214140918/120214154259/p_O.jpg",
+    "ingredients": ["Уксус", "Мелко рубленный чеснок", "Соевый соус"],
+    "link": "https://eda.ru/recepty/sousy-marinady/chesnochnij-sous-s-uksusom-29399",
+    "nutrition": {
+      "calories": 31,
+      "carbohydrate": 4.8,
+      "fat": 0.1,
+      "protein": 1.9
+    },
+    "title": "Чесночный соус с уксусом"
+  },
+  {
+    "image": "https://s1.eda.ru/StaticContent/Photos/120213183151/150507201627/p_O.jpg",
+    "ingredients": ["Чеснок", "Молотый красный перец", "Растительное масло"],
+    "link": "https://eda.ru/recepty/sousy-marinady/chesnochnij-sous-k-derunam-41418",
+    "nutrition": {
+      "calories": 309,
+      "carbohydrate": 8.3,
+      "fat": 30.1,
+      "protein": 1.7
+    },
+    "title": "Чесночный соус к дерунам"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Помидоры",
+      "Чеснок",
+      "Молотый красный перец",
+      "Хмели-сунели",
+      "Молотый кориандр"
+    ],
+    "link": "https://eda.ru/recepty/sousy-marinady/tomatno-chesnochnij-sous-25457",
+    "nutrition": {
+      "calories": 88,
+      "carbohydrate": 14.4,
+      "fat": 2.5,
+      "protein": 2.7
+    },
+    "title": "Томатно-чесночный соус"
+  },
+  {
+    "image": "https://s2.eda.ru/StaticContent/DefaultRecipePhoto/no-photo.svg",
+    "ingredients": [
+      "Чеснок",
+      "Листья базилика",
+      "Хлебные крошки",
+      "Молоко",
+      "Яичный желток",
+      "Консервированный перец пименто",
+      "Фруктовое оливковое масло",
+      "Соль",
+      "Перец черный молотый",
+      "Соус табаско"
+    ],
+    "link": "https://eda.ru/recepty/sousy-marinady/ruil-krasnij-chesnochnij-sous-25572",
+    "nutrition": {
+      "calories": 565,
+      "carbohydrate": 21,
+      "fat": 51.3,
+      "protein": 6.6
+    },
+    "title": "Руиль — красный чесночный соус"
+  }
+]
